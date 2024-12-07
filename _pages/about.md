@@ -1,12 +1,13 @@
 ---
 permalink: /
-title: "👋 Hello there, I'm Iqbal!"
+title: "👋 Hello there!"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
+{: .text-justify}
 I’m **G M Iqbal Mahmud**, a dedicated professional and researcher with a passion for solving complex problems and driving meaningful change. My expertise lies at the intersection of **Industrial Engineering**, **Supply Chain Management**, and **Process Automation**, with a focus on innovative, efficient solutions.
 
 ---
