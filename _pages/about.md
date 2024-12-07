@@ -6,8 +6,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<span style="font-size: 14px;">
-
+<!-- <span style="font-size: 14px;"> -->
+{: style="font-size: 14px;"}
 {: .text-justify}
 I’m **G M Iqbal Mahmud**, a dedicated professional and researcher with a passion for solving complex problems and driving meaningful change. My expertise lies at the intersection of **Industrial Engineering, Supply Chain Management,** and **Process Automation,** with a focus on innovative, efficient solutions.
 
@@ -19,7 +19,8 @@ Feel free to browse my portfolio to learn more about my work, projects, and the 
 
 Let’s create something **extraordinary together!** 💪
 
-</span>
+<!-- </span> -->
+
 <!-- I’m **G M Iqbal Mahmud**, a dedicated professional and researcher with a passion for solving complex problems and driving meaningful change. My expertise lies at the intersection of **Industrial Engineering**, **Supply Chain Management**, and **Process Automation**, with a focus on innovative, efficient solutions.
 
 ---
