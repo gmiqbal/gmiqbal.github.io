@@ -9,7 +9,9 @@ redirect_from:
 <!-- <span style="font-size: 14px;"> -->
 <!-- {: style="font-size: 14px;"}
 {: .text-justify} -->
-{: style="font-size: 14px;" .text-justify}
+<!-- {: style="font-size: 14px;" .text-justify} -->
+{: style="font-size: 10px;"}
+{: .text-justify}
 I’m **G M Iqbal Mahmud**, a dedicated professional and researcher with a passion for solving complex problems and driving meaningful change. My expertise lies at the intersection of **Industrial Engineering, Supply Chain Management,** and **Process Automation,** with a focus on innovative, efficient solutions.
 
 In my professional journey, I’ve worked on streamlining operations, developing automation systems, and optimizing workflows at an MNC like **Unilever Bangladesh Limited** and **Bengal Group of Industries**. Beyond the corporate space, I’ve **collaborated on research projects** to explore new frontiers in engineering and management, contributing to several publications and impactful studies.
