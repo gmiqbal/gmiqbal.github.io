@@ -24,13 +24,14 @@ author:
   avatar           : "DPG.jpg"
   name             : "G M Iqbal Mahmud"
   pronouns         : # example: "she/her"  
-  bio              : "Upwards & onwards!✨ "
+  bio              : "Industrial Engineer <br> Upwards & onwards!✨ "
   location         : "Dhaka, BD"
   employer         : #"Khulna University of Engineering & Technology (KUET)"
   uri              : # URL
   email            : "gmiqbalm@gmail.com" 
 
   # Academic websites
+  linkedin         : "gmiqbal"
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=3PNQt0EAAAAJ&hl=en"
   impactstory      : # URL
@@ -58,7 +59,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "gmiqbal"
+
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
