@@ -10,7 +10,7 @@ redirect_from:
 <!-- {: style="font-size: 14px;"}
 {: .text-justify} -->
 <!-- {: style="font-size: 14px;" .text-justify} -->
-{: style="font-size: 10px;"}
+<!-- {: style="font-size: 10px;"} -->
 {: .text-justify}
 I’m **G M Iqbal Mahmud**, a dedicated professional and researcher with a passion for solving complex problems and driving meaningful change. My expertise lies at the intersection of **Industrial Engineering, Supply Chain Management,** and **Process Automation,** with a focus on innovative, efficient solutions.
 
