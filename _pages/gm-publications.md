@@ -73,8 +73,7 @@ author_profile: true
       <div class="abstract-toggle" onclick="toggleAbstract('abstract-1')">See Abstract</div>
       <div id="abstract-1" class="abstract">
         <strong>Abstract:</strong> Despite abundant research on the application of artificial intelligence (AI) in reverse logistics, no comprehensive study with bibliometric and network analysis has been conducted. This study uses bibliometric analysis to derive the prominent research statistics in AI-centric reverse logistics, considering 2929 articles from the last three decades. The most impactful contributors and countries that employ AI in reverse logistics are identified using various bibliometric tools. Also, network analysis is performed to reveal the most influential articles and emerging trends and map the relationships via clustering. The results of keyword co-occurrence and co-citation analyses reveal that machine learning and deep learning techniques have been commonly used for addressing reverse logistics challenges with higher frequency in recent years. Furthermore, a systematic review is carried out, considering the influential articles from recent years. The review is conducted following the systematic literature review framework, and 79 articles are chosen to be studied thoroughly. Subsequently, the articles are divided based on various reverse logistics processes, and the most frequently used AI techniques are identified and categorized into five distinct groups. The comprehensive investigation of AI techniques reveals the use-case scenario of AI algorithms in the reverse logistics domain. This study concludes with implications and recommendations for prospects by addressing the shortcomings of the current studies and providing future researchers and practitioners with a robust roadmap to investigate reverse logistics in their research further.
-      </div>
-      <a href="https://doi.org/10.1016/j.sca.2024.100076" class="download-button">Journal Link</a>
+      </div> <a href="https://doi.org/10.1016/j.sca.2024.100076" class="download-button">Journal Link</a>
     </td>
     <td class="publication-date"> September 2024</td>
   </tr>
@@ -88,10 +87,9 @@ author_profile: true
       <div class="abstract-toggle" onclick="toggleAbstract('abstract-2')">See Abstract</div>
       <div id="abstract-2" class="abstract">
         <strong>Abstract:</strong> The rapid advancement of artificial intelligence (AI) has brought significant benefits across various domains, yet it has also led to increased energy consumption and environmental impact. This paper positions Green AI as a crucial direction for future research and development. It proposes a comprehensive framework for understanding, implementing, and advancing sustainable AI practices. We provide an overview of Green AI, highlighting its significance and current state regarding AI’s energy consumption and environmental impact. The paper explores sustainable AI techniques, such as model optimization methods, and the development of efficient algorithms. Additionally, we review energy-efficient hardware alternatives like tensor processing units (TPUs) and field-programmable gate arrays (FPGAs), and discuss strategies for designing and operating energy-efficient data centers. Case studies in natural language processing (NLP) and Computer Vision illustrate successful implementations of Green AI practices. Through these efforts, we aim to balance the performance and resource efficiency of AI technologies, aligning them with global sustainability goals.
-      </div>
-      <a href="https://link.springer.com/article/10.1007/s43621-024-00641-4" class="download-button">Journal Link</a>
+      </div> <a href="https://link.springer.com/article/10.1007/s43621-024-00641-4" class="download-button">Journal Link</a>
     </td>
-    <td class="publication-date">15 Nov 2024</td>
+    <td class="publication-date">15th Nov 2024</td>
   </tr>
 
   <tr>
@@ -99,7 +97,7 @@ author_profile: true
     <td class="publication-details">
       <div class="publication-title">Solving a Capacitated Vehicle Routing Prob-
 lem (CVRP) by Using Heuristics and Google OR-Tools: A Case Study</div>
-      <div class="publication-authors">G M Iqbal Mahmud</div>
+      <div class="publication-authors">G M Iqbal Mahmud <Strong> Supervisor: </Strong> Md. Habibur Rahman</div>
       <div class="publication-venue">Khulna University of Engineering & Technology</div>
       <div class="abstract-toggle" onclick="toggleAbstract('abstract-3')">See Abstract</div>
       <div id="abstract-3" class="abstract">
