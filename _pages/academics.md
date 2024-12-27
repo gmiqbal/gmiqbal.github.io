@@ -16,16 +16,16 @@ author_profile: true
       <div class="slider-container" style="position: relative; width: 80%; margin: 0 auto; overflow: hidden; border-radius: 10px;">
         <div class="slider" style="display: flex; transition: transform 0.5s ease-in-out;">
           <div class="slide" style="min-width: 100%;">
-            <img src="files/uni/single.jpeg" alt="Image 1" style="width: 100%; height: auto;">
-            <p style="font-size: 14px; text-align: center; margin-top: 10px;">Caption for Image 1</p>
+            <img src="files\uni\single.jpegg" alt="Image 1" style="width: 100%; height: auto;">
+            <p style="font-size: 14px; text-align: center; margin-top: 10px;">At graduation day</p>
           </div>
           <div class="slide" style="min-width: 100%;">
-            <img src="files/uni/last_lab.jpeg" alt="Image 2" style="width: 100%; height: auto;">
-            <p style="font-size: 14px; text-align: center; margin-top: 10px;">Caption for Image 2</p>
+            <img src="files\uni\last_lab.jpeg" alt="Image 2" style="width: 100%; height: auto;">
+            <p style="font-size: 14px; text-align: center; margin-top: 10px;">Last lab at university</p>
           </div>
           <div class="slide" style="min-width: 100%;">
-            <img src="files/uni/discussion.jpeg" alt="Image 3" style="width: 100%; height: auto;">
-            <p style="font-size: 14px; text-align: center; margin-top: 10px;">Caption for Image 3</p>
+            <img src="files\uni\discussion.jpeg" alt="Image 3" style="width: 100%; height: auto;">
+            <p style="font-size: 14px; text-align: center; margin-top: 10px;">Post central viva discussion</p>
           </div>
         </div>
       </div>
