@@ -5,25 +5,16 @@ permalink: /publications/
 author_profile: true
 ---
 
-<div class="sidebar">
-  <h1>Your Name</h1>
-  <a href="/">Home</a>
-</div>
-
 <div class="main-content">
-  <div class="search-bar">
-    <input type="text" id="search" placeholder="Search publications...">
-    <select id="filter-year">
-      <option value="">Filter by Year</option>
-      <option value="2024">2024</option>
-      <option value="2023">2023</option>
-    </select>
-    <button onclick="filterPublications()">Search</button>
+  <div id="sort-controls">
+    <button onclick="sortPublications('date')">Sort by Date</button>
+    <button onclick="sortPublications('citation')">Sort by Citations</button>
   </div>
 
   <div id="publications">
-    <div class="publication" data-year="2024">
+    <div class="publication" data-year="2024" data-citations="50">
       <h3>Towards sustainable AI: a comprehensive framework for Green AI</h3>
+      <p><strong>GM Iqbal Mahmud</strong>, Abdulaziz Tabbakh, Lisan Al Amin, Mahbubul Islam, Imranul Kabir Chowdhury, Md Saddam Hossain Mukta</p>
       <div class="meta">
         <span>Journal | Discover Sustainability</span>
         <span>15th Nov 2024</span>
@@ -37,8 +28,9 @@ author_profile: true
       </div>
     </div>
 
-    <div class="publication" data-year="2024">
+    <div class="publication" data-year="2024" data-citations="30">
       <h3>Application of artificial intelligence in reverse logistics: A bibliometric and network analysis</h3>
+      <p>Oyshik Bhowmik, Sudipta Chowdhury, Jahid Hasan Ashik, <strong>GM Iqbal Mahmud</strong>, Md Muzahid Khan, Niamat Ullah Ibne Hossain</p>
       <div class="meta">
         <span>Journal | Supply Chain Analytics</span>
         <span>September 2024</span>
@@ -60,20 +52,22 @@ function toggleAbstract(id) {
   abstract.style.display = abstract.style.display === "block" ? "none" : "block";
 }
 
-function filterPublications() {
-  var search = document.getElementById('search').value.toLowerCase();
-  var year = document.getElementById('filter-year').value;
+function sortPublications(criteria) {
   var publications = document.querySelectorAll('.publication');
+  var container = document.getElementById('publications');
+  var pubsArray = Array.from(publications);
 
-  publications.forEach(function(pub) {
-    var title = pub.querySelector('h3').innerText.toLowerCase();
-    var pubYear = pub.getAttribute('data-year');
-
-    if ((title.includes(search) || search === '') && (year === '' || pubYear === year)) {
-      pub.style.display = "block";
-    } else {
-      pub.style.display = "none";
+  pubsArray.sort(function(a, b) {
+    if (criteria === 'date') {
+      return new Date(b.querySelector('.meta span:nth-child(2)').innerText) - new Date(a.querySelector('.meta span:nth-child(2)').innerText);
+    } else if (criteria === 'citation') {
+      return parseInt(b.getAttribute('data-citations')) - parseInt(a.getAttribute('data-citations'));
     }
+  });
+
+  container.innerHTML = '';
+  pubsArray.forEach(function(pub) {
+    container.appendChild(pub);
   });
 }
 </script>
