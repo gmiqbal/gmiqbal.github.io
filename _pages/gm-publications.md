@@ -200,7 +200,7 @@ body.dark-mode .tag {
   <!-- Year Group -->
   <div class="year-header">2024</div>
   
-  <!-- Publication Card -->
+  <!-- Publication 1 -->
   <div class="publication-card">
     <div class="publication-type">Journal</div>
     <div class="publication-title">Towards sustainable AI: a comprehensive framework for Green AI</div>
@@ -212,13 +212,46 @@ body.dark-mode .tag {
     </div>
     <div class="abstract-toggle" onclick="toggleAbstract('abstract-1')">See Abstract</div>
     <div id="abstract-1" class="abstract">
-      <strong>Abstract:</strong> The rapid advancement of artificial intelligence (AI) has brought significant benefits across various domains, yet it has also led to increased energy consumption and environmental impact. This paper positions Green AI as a crucial direction for future research and development. It proposes a comprehensive framework for understanding, implementing, and advancing sustainable AI practices. We provide an overview of Green AI, highlighting its significance and current state regarding AI’s energy consumption and environmental impact. The paper explores sustainable AI techniques, such as model optimization methods, and the development of efficient algorithms. Additionally, we review energy-efficient hardware alternatives like tensor processing units (TPUs) and field-programmable gate arrays (FPGAs), and discuss strategies for designing and operating energy-efficient data centers. Case studies in natural language processing (NLP) and Computer Vision illustrate successful implementations of Green AI practices. Through these efforts, we aim to balance the performance and resource efficiency of AI technologies, aligning them with global sustainability goals.
+      <strong>Abstract:</strong> The rapid advancement of artificial intelligence (AI) has brought significant benefits across various domains, yet it has also led to increased energy consumption and environmental impact. This paper positions Green AI as a crucial direction for future research and development.
     </div>
     <a href="https://link.springer.com/article/10.1007/s43621-024-00641-4" class="download-button">Journal Link</a>
     <div class="publication-date">15th Nov 2024</div>
   </div>
   
-  <!-- Add more publications here -->
+  <!-- Publication 2 -->
+  <div class="publication-card">
+    <div class="publication-type">Journal</div>
+    <div class="publication-title">Application of artificial intelligence in reverse logistics</div>
+    <div class="publication-authors">Oyshik Bhowmik, Sudipta Chowdhury, Jahid Hasan Ashik, <strong>GM Iqbal Mahmud</strong></div>
+    <div class="publication-venue">Supply Chain Analytics</div>
+    <div class="publication-tags">
+      <span class="tag">Logistics</span>
+      <span class="tag">AI</span>
+    </div>
+    <div class="abstract-toggle" onclick="toggleAbstract('abstract-2')">See Abstract</div>
+    <div id="abstract-2" class="abstract">
+      <strong>Abstract:</strong> This study uses bibliometric analysis to derive the prominent research statistics in AI-centric reverse logistics, considering 2929 articles from the last three decades.
+    </div>
+    <a href="https://doi.org/10.1016/j.sca.2024.100076" class="download-button">Journal Link</a>
+    <div class="publication-date">September 2024</div>
+  </div>
+
+  <!-- Publication 3 -->
+  <div class="publication-card">
+    <div class="publication-type">Thesis</div>
+    <div class="publication-title">Solving a Capacitated Vehicle Routing Problem (CVRP)</div>
+    <div class="publication-authors">G M Iqbal Mahmud <strong>Supervisor:</strong> Md. Habibur Rahman</div>
+    <div class="publication-venue">Khulna University of Engineering & Technology</div>
+    <div class="publication-tags">
+      <span class="tag">Optimization</span>
+      <span class="tag">Routing</span>
+    </div>
+    <div class="abstract-toggle" onclick="toggleAbstract('abstract-3')">See Abstract</div>
+    <div id="abstract-3" class="abstract">
+      <strong>Abstract:</strong> This thesis aims to solve the poor vehicle routing and underutilization of vehicles by finding optimal routes for distribution using Google OR-Tools.
+    </div>
+    <div class="publication-date">10th Apr 2022</div>
+  </div>
 </div>
 
 <div class="pagination-container" id="pagination-container"></div>
@@ -249,7 +282,7 @@ function toggleTheme() {
 }
 
 /* Pagination */
-const itemsPerPage = 5;
+const itemsPerPage = 2;
 const publications = document.querySelectorAll(".publication-card");
 const paginationContainer = document.getElementById("pagination-container");
 
