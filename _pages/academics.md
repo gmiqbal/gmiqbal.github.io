@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Academics & Achievements"
+title: "Academics"
 permalink: /academics/
 author_profile: true
 ---
@@ -10,8 +10,33 @@ author_profile: true
 
   <div class="education" data-year="2022">
     <p style="font-size: 15px; text-align: justify;">🏫 <strong><a href="https://kuet.ac.bd/" target="_blank">Khulna University of Engineering & Technology</a></strong> | Khulna, Bangladesh<br>📅 <strong>Feb 2017 – Apr 2022</strong><br>🎓 Bachelor of Science in Industrial & Production Engineering (IPE)<br>🎯 <strong>CGPA:</strong> 3.65/4.00 (3.78 in last four semesters)</p>
+    
+    <!-- Sliding Photo Gallery -->
+    <div class="photo-gallery" style="margin-top: 20px; text-align: center;">
+      <div class="slider-container" style="position: relative; width: 80%; margin: 0 auto; overflow: hidden; border-radius: 10px;">
+        <div class="slider" style="display: flex; transition: transform 0.5s ease-in-out;">
+          <div class="slide" style="min-width: 100%;">
+            <img src="files/uni/single.jpeg" alt="Image 1" style="width: 100%; height: auto;">
+            <p style="font-size: 14px; text-align: center; margin-top: 10px;">Caption for Image 1</p>
+          </div>
+          <div class="slide" style="min-width: 100%;">
+            <img src="files/uni/last_lab.jpeg" alt="Image 2" style="width: 100%; height: auto;">
+            <p style="font-size: 14px; text-align: center; margin-top: 10px;">Caption for Image 2</p>
+          </div>
+          <div class="slide" style="min-width: 100%;">
+            <img src="files/uni/discussion.jpeg" alt="Image 3" style="width: 100%; height: auto;">
+            <p style="font-size: 14px; text-align: center; margin-top: 10px;">Caption for Image 3</p>
+          </div>
+        </div>
+      </div>
+      <div class="slider-controls" style="margin-top: 10px;">
+        <button onclick="moveSlide(-1)" style="background: none; border: none; font-size: 18px; cursor: pointer;">⬅️</button>
+        <button onclick="moveSlide(1)" style="background: none; border: none; font-size: 18px; cursor: pointer;">➡️</button>
+      </div>
+    </div>
+
     <ul style="font-size: 15px; text-align: justify; padding-left: 24px;">
-      <li>Key <a href="https://www.kuet.ac.bd/dept/iem/academic/ugcurriculum" target="_blank">Courses</a> 📖: Operations Management, Operations Research, Logistics & Supply Chain Management, Management Information System Analysis and Design, Computer Integrated Manufacturing, Quality Management, Production Systems Design, Computer Aided Design.</li>
+      <li> <strong> Key <a href="https://www.kuet.ac.bd/dept/iem/academic/ugcurriculum" target="_blank">Courses</a> 📖: </strong> Operations Management, Operations Research, Logistics & Supply Chain Management, Management Information System Analysis and Design, Computer Integrated Manufacturing, Quality Management, Production Systems Design, Computer Aided Design.</li>
     </ul>
     <div style="padding-left: 24px; font-size: 15px; text-align: justify;">
       🏅 <strong><a href="https://kuet.ac.bd/office/dean/me" target="_blank">Dean’s List Honoree</a></strong> | Faculty of Mechanical Engineering, Khulna University of Engineering & Technology | 📅 <strong>Mar 2019</strong><br>
@@ -38,3 +63,13 @@ author_profile: true
     <p style="font-size: 15px; text-align: justify;">🏫 <strong><a href="#" target="_blank">Govt. Muslim High School, Chittagong</a></strong><br>📅 <strong>2012 – 2014</strong><br>🎓 Secondary School Certificate (SSC)<br>🎯 <strong>GPA:</strong> 5.00 / 5.00</p>
   </div>
 </div>
+
+<script>
+let currentSlide = 0;
+function moveSlide(direction) {
+  const slider = document.querySelector('.slider');
+  const slides = document.querySelectorAll('.slide');
+  currentSlide = (currentSlide + direction + slides.length) % slides.length;
+  slider.style.transform = `translateX(-${currentSlide * 100}%)`;
+}
+</script>
