@@ -13,28 +13,28 @@ author_profile: true
     
     <!-- Sliding Photo Gallery -->
     <div class="photo-gallery" style="margin-top: 20px; text-align: center;">
-    <div class="slider-container" style="position: relative; width: 80%; margin: 0 auto; overflow: hidden; border-radius: 10px;">
-        <div class="slider" style="display: flex; transition: transform 0.5s ease-in-out;">
-        <div class="slide" style="min-width: 100%;">
-            <img src="/files/uni/single.jpeg" alt="Image 1" style="width: 100%; height: auto;">
-            <p style="font-size: 14px; text-align: center; margin-top: 10px;">At graduation day</p>
+      <div class="slider-container" style="position: relative; width: 80%; height: 400px; margin: 0 auto; overflow: hidden; border-radius: 10px; background-color: #f4f4f4;">
+        <div class="slider" style="display: flex; transition: transform 0.5s ease-in-out; height: 100%;">
+          <div class="slide" style="min-width: 100%; display: flex; align-items: center; justify-content: center;">
+            <img src="/files/uni/single.jpeg" alt="Image 1" style="max-width: 100%; max-height: 100%; object-fit: contain;">
+            <p style="position: absolute; bottom: 10px; font-size: 14px; text-align: center; background: rgba(0, 0, 0, 0.6); color: #fff; padding: 5px 10px; border-radius: 5px;">At graduation day</p>
+          </div>
+          <div class="slide" style="min-width: 100%; display: flex; align-items: center; justify-content: center;">
+            <img src="/files/uni/last_lab.jpeg" alt="Image 2" style="max-width: 100%; max-height: 100%; object-fit: contain;">
+            <p style="position: absolute; bottom: 10px; font-size: 14px; text-align: center; background: rgba(0, 0, 0, 0.6); color: #fff; padding: 5px 10px; border-radius: 5px;">Last lab at university</p>
+          </div>
+          <div class="slide" style="min-width: 100%; display: flex; align-items: center; justify-content: center;">
+            <img src="/files/uni/discussion.jpeg" alt="Image 3" style="max-width: 100%; max-height: 100%; object-fit: contain;">
+            <p style="position: absolute; bottom: 10px; font-size: 14px; text-align: center; background: rgba(0, 0, 0, 0.6); color: #fff; padding: 5px 10px; border-radius: 5px;">Post central viva discussion</p>
+          </div>
         </div>
-        <div class="slide" style="min-width: 100%;">
-            <img src="/files/uni/last_lab.jpeg" alt="Image 2" style="width: 100%; height: auto;">
-            <p style="font-size: 14px; text-align: center; margin-top: 10px;">Last lab at university</p>
-        </div>
-        <div class="slide" style="min-width: 100%;">
-            <img src="/files/uni/discussion.jpeg" alt="Image 3" style="width: 100%; height: auto;">
-            <p style="font-size: 14px; text-align: center; margin-top: 10px;">Post central viva discussion</p>
-        </div>
-        </div>
+      </div>
+      <div class="slider-controls" style="margin-top: 10px; display: flex; align-items: center; justify-content: center;">
+        <button onclick="moveSlide(-1)" style="background: none; border: none; font-size: 18px; cursor: pointer; margin-right: 10px;">⬅️</button>
+        <span id="slide-counter" style="font-size: 16px;">1/3</span>
+        <button onclick="moveSlide(1)" style="background: none; border: none; font-size: 18px; cursor: pointer; margin-left: 10px;">➡️</button>
+      </div>
     </div>
-    <div class="slider-controls" style="margin-top: 10px;">
-        <button onclick="moveSlide(-1)" style="background: none; border: none; font-size: 18px; cursor: pointer;">⬅️</button>
-        <button onclick="moveSlide(1)" style="background: none; border: none; font-size: 18px; cursor: pointer;">➡️</button>
-    </div>
-    </div>
-
 
     <ul style="font-size: 15px; text-align: justify; padding-left: 24px;">
       <li> <strong> Key <a href="https://www.kuet.ac.bd/dept/iem/academic/ugcurriculum" target="_blank">Courses</a> 📖: </strong> Operations Management, Operations Research, Logistics & Supply Chain Management, Management Information System Analysis and Design, Computer Integrated Manufacturing, Quality Management, Production Systems Design, Computer Aided Design.</li>
@@ -67,10 +67,13 @@ author_profile: true
 
 <script>
 let currentSlide = 0;
+const totalSlides = document.querySelectorAll('.slide').length;
+const counterElement = document.getElementById('slide-counter');
+
 function moveSlide(direction) {
   const slider = document.querySelector('.slider');
-  const slides = document.querySelectorAll('.slide');
-  currentSlide = (currentSlide + direction + slides.length) % slides.length;
+  currentSlide = (currentSlide + direction + totalSlides) % totalSlides;
   slider.style.transform = `translateX(-${currentSlide * 100}%)`;
+  counterElement.textContent = `${currentSlide + 1}/${totalSlides}`;
 }
 </script>
