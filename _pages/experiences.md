@@ -39,6 +39,7 @@ author_profile: true
     <div class="experience" data-year="2022">
       <p style="font-size: 15px; text-align: justify;">🛠 <strong>Unilever Leadership Internship Program (ULIP) Supply Chain Intern</strong><br> 🏢 <a href="https://www.unilever.com.bd/" target="_blank"><strong>Unilever Bangladesh Limited</strong></a>, Dhaka<br>📅 <strong>Sep 2022 – Dec 2022</strong></p>
       <ul style="font-size: 15px; text-align: justify; padding-left: 20px;">
+        <li> Got selected for the prestigious Unilever Leadership Internship Programme (ULIP) in Supply Chain competing nationally against 4,500+ candidates through a rigorous 4-phase recruitment process </li>
         <li>Successfully completed induction on manufacturing, warehouse, operations, and quality at MFPL, Gazipur factory, gaining a thorough understanding of the production process.</li>
         <li>Restructured the Forecast Accuracy & Forecast Bias files, bringing in more automation that aligned with business needs and KPI reporting.</li>
         <li>Developed automated production planning tool using Microsoft Excel and Microsoft Visual Basic, streamlining the planning process and reducing complexities significantly.</li>
