@@ -13,19 +13,19 @@ author_profile: true
     
     <!-- Sliding Photo Gallery -->
     <div class="photo-gallery" style="margin-top: 20px; text-align: center;">
-      <div class="slider-container" style="position: relative; width: 80%; height: 400px; margin: 0 auto; overflow: hidden; border-radius: 10px; background-color: #f4f4f4;">
+      <div class="slider-container" style="position: relative; width: 80%; aspect-ratio: 16 / 9; margin: 0 auto; overflow: hidden; border-radius: 10px; background-color: #f4f4f4;">
         <div class="slider" style="display: flex; transition: transform 0.5s ease-in-out; height: 100%;">
           <div class="slide" style="min-width: 100%; display: flex; align-items: center; justify-content: center;">
             <img src="/files/uni/single.jpeg" alt="Image 1" style="max-width: 100%; max-height: 100%; object-fit: contain;">
-            <p style="position: absolute; bottom: 10px; font-size: 14px; text-align: center; background: rgba(0, 0, 0, 0.6); color: #fff; padding: 5px 10px; border-radius: 5px;">At graduation day</p>
+            <p style="position: absolute; bottom: 10px; font-size: 14px; text-align: center; background: rgba(0, 0, 0, 0.6); color: #fff; padding: 5px 10px; border-radius: 5px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">At graduation day</p>
           </div>
           <div class="slide" style="min-width: 100%; display: flex; align-items: center; justify-content: center;">
             <img src="/files/uni/last_lab.jpeg" alt="Image 2" style="max-width: 100%; max-height: 100%; object-fit: contain;">
-            <p style="position: absolute; bottom: 10px; font-size: 14px; text-align: center; background: rgba(0, 0, 0, 0.6); color: #fff; padding: 5px 10px; border-radius: 5px;">Last lab at university</p>
+            <p style="position: absolute; bottom: 10px; font-size: 14px; text-align: center; background: rgba(0, 0, 0, 0.6); color: #fff; padding: 5px 10px; border-radius: 5px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">Last lab at university</p>
           </div>
           <div class="slide" style="min-width: 100%; display: flex; align-items: center; justify-content: center;">
             <img src="/files/uni/discussion.jpeg" alt="Image 3" style="max-width: 100%; max-height: 100%; object-fit: contain;">
-            <p style="position: absolute; bottom: 10px; font-size: 14px; text-align: center; background: rgba(0, 0, 0, 0.6); color: #fff; padding: 5px 10px; border-radius: 5px;">Post central viva discussion</p>
+            <p style="position: absolute; bottom: 10px; font-size: 14px; text-align: center; background: rgba(0, 0, 0, 0.6); color: #fff; padding: 5px 10px; border-radius: 5px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">Post central viva discussion</p>
           </div>
         </div>
       </div>
@@ -76,4 +76,9 @@ function moveSlide(direction) {
   slider.style.transform = `translateX(-${currentSlide * 100}%)`;
   counterElement.textContent = `${currentSlide + 1}/${totalSlides}`;
 }
+
+// Auto-slide every 2 seconds
+setInterval(() => {
+  moveSlide(1);
+}, 2000);
 </script>
