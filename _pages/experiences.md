@@ -1,19 +1,16 @@
 ---
 layout: archive
-title: "Job Experience"
+title: "Job Experiences"
 permalink: /experience/
 author_profile: true
 ---
 
 <div class="main-content">
   <div id="experience">
-    <h2 style="text-align: left; font-size: 18px; font-weight: bold;">EXPERIENCES</h2>
+    <!-- <h2 style="text-align: left; font-size: 18px; font-weight: bold;">EXPERIENCES</h2> -->
 
     <div class="experience" data-year="2023">
-      <p style="font-size: 15px; text-align: justify; display: flex; justify-content: space-between; align-items: center;">
-        <span>🛠 <strong>Supply Chain Planning Officer – Nutrition</strong><br> 🏢 <a href="https://www.unileverconsumercarebd.com/" target="_blank"><strong>Unilever Bangladesh Limited</strong></a>, Dhaka<br>📅 <strong>Jun 2023 – Aug 2024</strong></span>
-        <img src="files/Unilever.svg" alt="Unilever Logo" style="max-height: 50px; max-width: 80px; object-fit: contain;">
-      </p>
+      <p style="font-size: 15px; text-align: justify;">🛠 <strong>Supply Chain Planning Officer – Nutrition</strong><br> 🏢 <strong>Unilever Bangladesh Limited</strong>, Dhaka<br>📅 <strong>Jun 2023 – Present</strong></p>
       <ul style="font-size: 15px; text-align: justify; padding-left: 20px;">
         <li>Craft Master Production Schedule (MPS) considering production capacity, Overall Equipment Efficiency (OEE), resource utilization, sales achievement, and inventory strategies.</li>
         <li>Develop Material Requirement Planning (MRP) considering reordering points, MOQ, Days On Hand (DOH) coverage and assist Distribution Requirement Planning (DRP) considering inventory targets and demand dynamics.</li>
@@ -40,10 +37,7 @@ author_profile: true
     <hr>
 
     <div class="experience" data-year="2022">
-      <p style="font-size: 15px; text-align: justify; display: flex; justify-content: space-between; align-items: center;">
-        <span>🛠 <strong>Unilever Leadership Internship Program (ULIP) Supply Chain Intern</strong><br> 🏢 <a href="https://www.unilever.com.bd/" target="_blank"><strong>Unilever Bangladesh Limited</strong></a>, Dhaka<br>📅 <strong>Sep 2022 – Dec 2022</strong></span>
-        <img src="files/Unilever.svg" alt="Unilever Logo" style="max-height: 50px; max-width: 80px; object-fit: contain;">
-      </p>
+      <p style="font-size: 15px; text-align: justify;">🛠 <strong>Unilever Leadership Internship Program (ULIP) Supply Chain Intern</strong><br> 🏢 <strong>Unilever Bangladesh Limited</strong>, Dhaka<br>📅 <strong>Sep 2022 – Dec 2022</strong></p>
       <ul style="font-size: 15px; text-align: justify; padding-left: 20px;">
         <li>Successfully completed induction on manufacturing, warehouse, operations, and quality at MFPL, Gazipur factory, gaining a thorough understanding of the production process.</li>
         <li>Restructured the Forecast Accuracy & Forecast Bias files, bringing in more automation that aligned with business needs and KPI reporting.</li>
@@ -54,10 +48,7 @@ author_profile: true
     <hr>
 
     <div class="experience" data-year="2022">
-      <p style="font-size: 15px; text-align: justify; display: flex; justify-content: space-between; align-items: center;">
-        <span>🛠 <strong>Supply Chain Intern</strong><br> 🏢 <a href="https://www.bengalgroup.com/" target="_blank"><strong>Bengal Group of Industries</strong></a><br>📅 <strong>Jun 2022 – Sep 2022</strong></span>
-        <img src="files/bengal.jpg" alt="Bengal Group Logo" style="max-height: 50px; max-width: 80px; object-fit: contain;">
-      </p>
+      <p style="font-size: 15px; text-align: justify;">🛠 <strong>Supply Chain Intern</strong><br> 🏢 <strong>Bengal Group of Industries</strong><br>📅 <strong>Jun 2022 – Sep 2022</strong></p>
       <ul style="font-size: 15px; text-align: justify; padding-left: 20px;">
         <li>Collaborated effectively with cross-functional teams including Sales, Marketing, and Finance to gather and ensure the accuracy of data used for demand forecasting.</li>
         <li>Supported the procurement team in the end-to-end procurement process from indent to GRN using Far Vision ERP.</li>
