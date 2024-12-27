@@ -20,10 +20,10 @@ author_profile: true
               <img src="\files\job\ucl\IMG-20240820-WA0028~2.jpg" alt="Job 1 Image 1" style="max-width: 100%; max-height: 100%; object-fit: contain;">
             </div>
             <div class="slide" style="min-width: 100%; display: flex; align-items: center; justify-content: center;">
-              <img src="\files\job\ucl\IMG-20231203-WA0017.jpg" alt="Job 1 Image 2" style="max-width: 100%; max-height: 100%; object-fit: contain;">
+              <img src="\files\job\ucl\IMG_20230910_233726_775-1.webp" alt="Job 1 Image 2" style="max-width: 100%; max-height: 100%; object-fit: contain;">
             </div>
             <div class="slide" style="min-width: 100%; display: flex; align-items: center; justify-content: center;">
-              <img src="/files/job1/image3.jpeg" alt="Job 1 Image 3" style="max-width: 100%; max-height: 100%; object-fit: contain;">
+              <img src="\files\job\ucl\IMG-20231203-WA0017.jpg" alt="Job 1 Image 3" style="max-width: 100%; max-height: 100%; object-fit: contain;">
             </div>
           </div>
         </div>
@@ -31,15 +31,33 @@ author_profile: true
           <p id="caption-1">Caption for Job 1 Image 1</p>
         </div>
         <div class="slider-controls" style="margin-top: 10px; display: flex; align-items: center; justify-content: center;">
-          <button onclick="moveSlide(-1, 'slider-1', 'caption-1', job1Captions)" style="background: none; border: none; font-size: 18px; cursor: pointer; margin-right: 10px;">⬅️</button>
-          <button onclick="moveSlide(1, 'slider-1', 'caption-1', job1Captions)" style="background: none; border: none; font-size: 18px; cursor: pointer; margin-left: 10px;">➡️</button>
+          <button onclick="moveSlide(-1, 'slider-1', 'caption-1', 'counter-1', job1Captions)" style="background: none; border: none; font-size: 18px; cursor: pointer; margin-right: 10px;">⬅️</button>
+          <span id="counter-1" style="font-size: 16px;">1/3</span>
+          <button onclick="moveSlide(1, 'slider-1', 'caption-1', 'counter-1', job1Captions)" style="background: none; border: none; font-size: 18px; cursor: pointer; margin-left: 10px;">➡️</button>
         </div>
       </div>
 
       <!-- Description continues -->
       <ul style="font-size: 15px; text-align: justify; padding-left: 20px;">
-        <li>Craft Master Production Schedule (MPS) considering production capacity...</li>
-        <!-- other points -->
+       <li>Craft Master Production Schedule (MPS) considering production capacity, Overall Equipment Efficiency (OEE), resource utilization, sales achievement, and inventory strategies.</li>
+        <li>Develop Material Requirement Planning (MRP) considering reordering points, MOQ, Days On Hand (DOH) coverage and assist Distribution Requirement Planning (DRP) considering inventory targets and demand dynamics.</li>
+        <li>Drive & monitor Supply Planning KPIs: Dispatch Rate (DR), Service Level (OTIF), Inventory FG & RM.</li>
+        <li>Define material wise optimum FG, RM & PM stock norm and monitor inventory expiries to minimize SLOB materials and reduce write-offs.</li>
+        <li>Maintain historical sales data for insightful decision making and manage Material Master data in SAP: Material code creation, multi-level BOM flow, create and modify Production Version (PV), share Purchase Requisitions (PR), Process Orders (PO) for purchasing and material consumption (GR).</li>
+        <li>Facilitate Sales & Operations Planning (S&OP) process by collaborating with Brand, Customer Service, Procurement, Quality, R&D for strategic decision making, new SKU launch and savings projects.</li>
+      </ul>
+      <p style="font-size: 15px; text-align: justify;">🏆 <strong>Achievements:</strong></p>
+      <ul style="font-size: 15px; text-align: justify; padding-left: 20px;">
+        <li>Proactively supported Knorr SKUs demand upsurge of 158% over forecast for 03 consecutive months.</li>
+        <li>19.53 Million BDT worth write-off has been avoided with proactive actions like ensuring consumption prior expiry or extending material expiry in alignment with R&D and Quality.</li>
+        <li>Streamlined and rolled out Master Production Schedule (MPS) for 03 Plants (MFPL, KGF Foods, FHF).</li>
+        <li>Rebuilt 47 Nutrition SKUs Master Data and BOM from component level for new distributor margin.</li>
+        <li>Incorporated Nutrition into automated supply planning tool “Kinaxis.”</li>
+        <li>Maintained DR (Dispatch Rate) service level at 98% on average with agility.</li>
+        <li>Launched 3 new SKUs smoothly aligning with all stakeholders and successful OTIF.</li>
+        <li>Created automated SAP VBA script for creating FG PO and doing TECO as easily as possible.</li>
+        <li>Introduced Alternate BOM usage for Nutrition by modifying Production Version (PV) and BOM recipe.</li>
+        <li>Automated breakdown of FG production plan into day-wise RM-PM component requirement and coverage calculation against current stock.</li>
       </ul>
     </div>
 
@@ -67,8 +85,9 @@ author_profile: true
           <p id="caption-2">Caption for Job 2 Image 1</p>
         </div>
         <div class="slider-controls" style="margin-top: 10px; display: flex; align-items: center; justify-content: center;">
-          <button onclick="moveSlide(-1, 'slider-2', 'caption-2', job2Captions)" style="background: none; border: none; font-size: 18px; cursor: pointer; margin-right: 10px;">⬅️</button>
-          <button onclick="moveSlide(1, 'slider-2', 'caption-2', job2Captions)" style="background: none; border: none; font-size: 18px; cursor: pointer; margin-left: 10px;">➡️</button>
+          <button onclick="moveSlide(-1, 'slider-1', 'caption-1', 'counter-1', job1Captions)" style="background: none; border: none; font-size: 18px; cursor: pointer; margin-right: 10px;">⬅️</button>
+          <span id="counter-1" style="font-size: 16px;">1/3</span>
+          <button onclick="moveSlide(1, 'slider-1', 'caption-1', 'counter-1', job1Captions)" style="background: none; border: none; font-size: 18px; cursor: pointer; margin-left: 10px;">➡️</button>
         </div>
       </div>
 
@@ -103,8 +122,10 @@ author_profile: true
           <p id="caption-3">Caption for Job 3 Image 1</p>
         </div>
         <div class="slider-controls" style="margin-top: 10px; display: flex; align-items: center; justify-content: center;">
-          <button onclick="moveSlide(-1, 'slider-3', 'caption-3', job3Captions)" style="background: none; border: none; font-size: 18px; cursor: pointer; margin-right: 10px;">⬅️</button>
-          <button onclick="moveSlide(1, 'slider-3', 'caption-3', job3Captions)" style="background: none; border: none; font-size: 18px; cursor: pointer; margin-left: 10px;">➡️</button>
+          <button onclick="moveSlide(-1, 'slider-1', 'caption-1', 'counter-1', job1Captions)" style="background: none; border: none; font-size: 18px; cursor: pointer; margin-right: 10px;">⬅️</button>
+          <span id="counter-1" style="font-size: 16px;">1/3</span>
+          <button onclick="moveSlide(1, 'slider-1', 'caption-1', 'counter-1', job1Captions)" style="background: none; border: none; font-size: 18px; cursor: pointer; margin-left: 10px;">➡️</button>
+        </div>
         </div>
       </div>
 
