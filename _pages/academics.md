@@ -6,11 +6,11 @@ author_profile: true
 ---
 
 <div class="main-content">
-  <!-- <h2 style="text-align: left; font-size: 18px; font-weight: bold;">ACADEMICS</h2> -->
+  <!-- <h2 style="text-align: left; font-size: 18px; text-align: left;">ACADEMICS</h2> -->
 
   <div class="education" data-year="2022">
-    <p style="font-size: 15px; text-align: justify;">🏫 <strong><a href="https://kuet.ac.bd/" target="_blank">Khulna University of Engineering & Technology</a></strong> | Khulna, Bangladesh<br>📅 <strong>Feb 2017 – Apr 2022</strong><br>🎓 Bachelor of Science in Industrial & Production Engineering (IPE)<br>🎯 <strong>CGPA:</strong> 3.65/4.00 (3.78 in last four semesters)</p>
-    
+    <p style="font-size: 15px; text-align: justify;">🏫 <strong><a href="https://kuet.ac.bd/" target="_blank">Khulna University of Engineering & Technology</a></strong> Khulna, Bangladesh<br>📅 <strong>Feb 2017 – Apr 2022</strong><br>🎓 Bachelor of Science in Industrial & Production Engineering (IPE)<br>🎯 <strong>CGPA:</strong> 3.65/4.00 (3.78 in last four semesters)</p>
+
     <!-- Sliding Photo Gallery -->
     <div class="photo-gallery" style="margin-top: 20px; text-align: center;">
       <div class="slider-container" style="position: relative; width: 80%; aspect-ratio: 16 / 9; margin: 0 auto; overflow: hidden; border-radius: 10px; background-color: #f4f4f4;">
@@ -26,7 +26,7 @@ author_profile: true
           </div>
         </div>
       </div>
-      <div style="font-size: 14px; margin-top: 10px;"> 
+      <div style="font-size: 14px; margin-top: 10px;">
         <span id="slide-caption">At graduation day</span>
       </div>
       <div class="slider-controls" style="margin-top: 10px; display: flex; align-items: center; justify-content: center;">
@@ -55,13 +55,13 @@ author_profile: true
   <hr>
 
   <div class="education" data-year="2016">
-    <p style="font-size: 15px; text-align: justify;">🏫 <strong><a href="#" target="_blank">Chittagong College</a></strong><br>📅 <strong>2014 – 2016</strong><br>🎓 Higher Secondary Certificate (HSC)<br>🎯 <strong>GPA:</strong> 5.00 / 5.00</p>
+    <p style="font-size: 15px; text-align: justify;">🏫 <strong><a href="https://ctgcollege.gov.bd/" target="_blank">Chittagong College</a></strong>, Chittagong<br>📅 <strong>2014 – 2016</strong><br>🎓 Higher Secondary Certificate (HSC)<br>🎯 <strong>GPA:</strong> 5.00 / 5.00</p>
   </div>
 
   <hr>
 
   <div class="education" data-year="2014">
-    <p style="font-size: 15px; text-align: justify;">🏫 <strong><a href="#" target="_blank">Govt. Muslim High School, Chittagong</a></strong><br>📅 <strong>2012 – 2014</strong><br>🎓 Secondary School Certificate (SSC)<br>🎯 <strong>GPA:</strong> 5.00 / 5.00</p>
+    <p style="font-size: 15px; text-align: justify;">🏫 <strong><a href="https://gmhsctg.tsmts.com/" target="_blank">Govt. Muslim High School</a></strong>, Chittagong<br>📅 <strong>2012 – 2014</strong><br>🎓 Secondary School Certificate (SSC)<br>🎯 <strong>GPA:</strong> 5.00 / 5.00</p>
   </div>
 </div>
 
