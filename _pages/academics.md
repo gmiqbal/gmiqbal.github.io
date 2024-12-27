@@ -16,18 +16,18 @@ author_profile: true
       <div class="slider-container" style="position: relative; width: 80%; aspect-ratio: 16 / 9; margin: 0 auto; overflow: hidden; border-radius: 10px; background-color: #f4f4f4;">
         <div class="slider" style="display: flex; transition: transform 0.5s ease-in-out; height: 100%;">
           <div class="slide" style="min-width: 100%; display: flex; align-items: center; justify-content: center;">
-            <img src="/files/uni/single.jpeg" alt="Image 1" style="max-width: 100%; max-height: 100%; object-fit: contain;">
-            <p style="position: absolute; bottom: 10px; font-size: 14px; text-align: center; background: rgba(0, 0, 0, 0.6); color: #fff; padding: 5px 10px; border-radius: 5px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">At graduation day</p>
+            <img src="/files/uni/single.jpeg" alt="Image 1" style="max-width: 100%; max-height: 100%; object-fit: contain; cursor: pointer;" onclick="enlargeImage('/files/uni/single.jpeg')">
           </div>
           <div class="slide" style="min-width: 100%; display: flex; align-items: center; justify-content: center;">
-            <img src="/files/uni/last_lab.jpeg" alt="Image 2" style="max-width: 100%; max-height: 100%; object-fit: contain;">
-            <p style="position: absolute; bottom: 10px; font-size: 14px; text-align: center; background: rgba(0, 0, 0, 0.6); color: #fff; padding: 5px 10px; border-radius: 5px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">Last lab at university</p>
+            <img src="/files/uni/last_lab.jpeg" alt="Image 2" style="max-width: 100%; max-height: 100%; object-fit: contain; cursor: pointer;" onclick="enlargeImage('/files/uni/last_lab.jpeg')">
           </div>
           <div class="slide" style="min-width: 100%; display: flex; align-items: center; justify-content: center;">
-            <img src="/files/uni/discussion.jpeg" alt="Image 3" style="max-width: 100%; max-height: 100%; object-fit: contain;">
-            <p style="position: absolute; bottom: 10px; font-size: 14px; text-align: center; background: rgba(0, 0, 0, 0.6); color: #fff; padding: 5px 10px; border-radius: 5px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">Post central viva discussion</p>
+            <img src="/files/uni/discussion.jpeg" alt="Image 3" style="max-width: 100%; max-height: 100%; object-fit: contain; cursor: pointer;" onclick="enlargeImage('/files/uni/discussion.jpeg')">
           </div>
         </div>
+      </div>
+      <div style="font-size: 14px; margin-top: 10px;"> 
+        <span id="slide-caption">At graduation day</span>
       </div>
       <div class="slider-controls" style="margin-top: 10px; display: flex; align-items: center; justify-content: center;">
         <button onclick="moveSlide(-1)" style="background: none; border: none; font-size: 18px; cursor: pointer; margin-right: 10px;">⬅️</button>
@@ -48,7 +48,7 @@ author_profile: true
 
       🏅 <strong><a href="https://iscea-bangladesh.com/ptakprize/" target="_blank">ISCEA PTAK Prize Case Competition - 60% Scholarship</a></strong> | International Supply Chain Education Alliance Bangladesh | 📅 <strong>Jul 2021</strong><br>
 
-      🏅 <strong><a href="https://www.linkedin.com/company/supplychainalliancebangladesh/posts/?feedView=all" target="_blank">Top 10 Finalists of ‘SCA Upstream’ Inter-University Case Competition</a></strong> | Supply Chain Alliance, Dhaka University - Faculty of Business Studies |📅 <strong>Oct 2020</strong>
+      🏅 <strong><a href="https://www.linkedin.com/company/supplychainalliancebangladesh/posts/?feedView=all" target="_blank">Top 10 Finalists of ‘SCA Upstream’ Inter-University Case Competition</a></strong> | Supply Chain Alliance, Dhaka University - Faculty of Business Studies | 📅 <strong>Oct 2020</strong>
     </div>
   </div>
 
@@ -65,20 +65,40 @@ author_profile: true
   </div>
 </div>
 
+<div id="imageModal" style="display: none; position: fixed; top: 0; left: 0; width: 100%; height: 100%; background-color: rgba(0, 0, 0, 0.8); z-index: 1000; align-items: center; justify-content: center;">
+  <span style="position: absolute; top: 20px; right: 30px; font-size: 30px; color: white; cursor: pointer;" onclick="closeModal()">&times;</span>
+  <img id="modalImage" src="" style="max-width: 90%; max-height: 90%; border-radius: 10px;">
+</div>
+
 <script>
 let currentSlide = 0;
 const totalSlides = document.querySelectorAll('.slide').length;
+const captions = ["At graduation day", "Last lab at university", "Post central viva discussion"];
 const counterElement = document.getElementById('slide-counter');
+const captionElement = document.getElementById('slide-caption');
 
 function moveSlide(direction) {
   const slider = document.querySelector('.slider');
   currentSlide = (currentSlide + direction + totalSlides) % totalSlides;
   slider.style.transform = `translateX(-${currentSlide * 100}%)`;
   counterElement.textContent = `${currentSlide + 1}/${totalSlides}`;
+  captionElement.textContent = captions[currentSlide];
 }
 
 // Auto-slide every 2 seconds
 setInterval(() => {
   moveSlide(1);
 }, 2000);
+
+function enlargeImage(src) {
+  const modal = document.getElementById('imageModal');
+  const modalImage = document.getElementById('modalImage');
+  modal.style.display = 'flex';
+  modalImage.src = src;
+}
+
+function closeModal() {
+  const modal = document.getElementById('imageModal');
+  modal.style.display = 'none';
+}
 </script>
