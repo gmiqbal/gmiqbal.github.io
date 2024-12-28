@@ -71,13 +71,13 @@ author_profile: true
         <div class="slider-container" style="position: relative; width: 80%; margin: 0 auto; overflow: hidden; border-radius: 10px; background-color: #f4f4f4;">
           <div class="slider" id="slider-2" style="display: flex; transition: transform 0.5s ease-in-out;">
             <div class="slide" style="min-width: 100%; display: flex; align-items: center; justify-content: center;">
-              <img src="/files/job2/image1.jpeg" alt="Job 2 Image 1" style="max-width: 100%; max-height: 100%; object-fit: contain;">
+              <img src="\files\job\Ubl\ULIPs LinkedIn Asset.png" alt="Job 2 Image 1" style="max-width: 100%; max-height: 100%; object-fit: contain;">
             </div>
             <div class="slide" style="min-width: 100%; display: flex; align-items: center; justify-content: center;">
-              <img src="/files/job2/image2.jpeg" alt="Job 2 Image 2" style="max-width: 100%; max-height: 100%; object-fit: contain;">
+              <img src="\files\job\Ubl\ULIPs.jpg" alt="Job 2 Image 2" style="max-width: 100%; max-height: 100%; object-fit: contain;">
             </div>
             <div class="slide" style="min-width: 100%; display: flex; align-items: center; justify-content: center;">
-              <img src="/files/job2/image3.jpeg" alt="Job 2 Image 3" style="max-width: 100%; max-height: 100%; object-fit: contain;">
+              <img src="\files\job\Ubl\Slide.jpg" alt="Job 2 Image 3" style="max-width: 100%; max-height: 100%; object-fit: contain;">
             </div>
           </div>
         </div>
@@ -93,8 +93,10 @@ author_profile: true
 
       <!-- Description continues -->
       <ul style="font-size: 15px; text-align: justify; padding-left: 20px;">
-        <li>Got selected for the prestigious Unilever Leadership Internship Programme...</li>
-        <!-- other points -->
+        <li> Got selected for the prestigious Unilever Leadership Internship Programme (ULIP) in Supply Chain competing nationally against 4,500+ candidates through a rigorous 4-phase recruitment process </li>
+        <li>Successfully completed induction on manufacturing, warehouse, operations, and quality at MFPL, Gazipur factory, gaining a thorough understanding of the production process.</li>
+        <li>Restructured the Forecast Accuracy & Forecast Bias files, bringing in more automation that aligned with business needs and KPI reporting.</li>
+        <li>Developed automated production planning tool using Microsoft Excel and Microsoft Visual Basic, streamlining the planning process and reducing complexities significantly.</li>
       </ul>
     </div>
 
@@ -108,13 +110,13 @@ author_profile: true
         <div class="slider-container" style="position: relative; width: 80%; margin: 0 auto; overflow: hidden; border-radius: 10px; background-color: #f4f4f4;">
           <div class="slider" id="slider-3" style="display: flex; transition: transform 0.5s ease-in-out;">
             <div class="slide" style="min-width: 100%; display: flex; align-items: center; justify-content: center;">
-              <img src="/files/job3/image1.jpeg" alt="Job 3 Image 1" style="max-width: 100%; max-height: 100%; object-fit: contain;">
+              <img src="\files\job\Bgi\boss.jpg" alt="Job 3 Image 1" style="max-width: 100%; max-height: 100%; object-fit: contain;">
             </div>
             <div class="slide" style="min-width: 100%; display: flex; align-items: center; justify-content: center;">
-              <img src="/files/job3/image2.jpeg" alt="Job 3 Image 2" style="max-width: 100%; max-height: 100%; object-fit: contain;">
+              <img src="\files\job\Bgi\interns.JPG" alt="Job 3 Image 2" style="max-width: 100%; max-height: 100%; object-fit: contain;">
             </div>
             <div class="slide" style="min-width: 100%; display: flex; align-items: center; justify-content: center;">
-              <img src="/files/job3/image3.jpeg" alt="Job 3 Image 3" style="max-width: 100%; max-height: 100%; object-fit: contain;">
+              <img src="\files/job/Bgi/workshop.JPG" alt="Job 3 Image 3" style="max-width: 100%; max-height: 100%; object-fit: contain;">
             </div>
           </div>
         </div>
@@ -131,8 +133,10 @@ author_profile: true
 
       <!-- Description continues -->
       <ul style="font-size: 15px; text-align: justify; padding-left: 20px;">
-        <li>Collaborated effectively with cross-functional teams including Sales...</li>
-        <!-- other points -->
+        <li>Collaborated effectively with cross-functional teams including Sales, Marketing, and Finance to gather and ensure the accuracy of data used for demand forecasting.</li>
+        <li>Supported the procurement team in the end-to-end procurement process from indent to GRN using Far Vision ERP.</li>
+        <li>Developed and implemented a Material Requirement Planning (MRP) dashboard for four business units of BGI to streamline material flow in the factories.</li>
+        <li>Optimized the Comparative Statement (CS) process by restructuring and indexing 1400+ files and creating an interactive dashboard using Microsoft Power BI.</li>
       </ul>
     </div>
   </div>
@@ -144,9 +148,9 @@ author_profile: true
 </div>
 
 <script>
-let job1Captions = ["Emni", "sdfsdf", "Caption for Job 1 Image 3"];
-let job2Captions = ["sdfsdfdsf", "Caption for Job 2 Image 2", "Caption for Job 2 Image 3"];
-let job3Captions = ["Caption for Job 3 Image 1", "Caption for Job 3 Image 2", "Caption for Job 3 Image 3"];
+let job1Captions = ["A heartfelt farewell from incredible mentors!", "UCL Team", "One Planning Team"];
+let job2Captions = ["ULIP Program Asset", "Purpose Workshop", "Report on Factory visit"];
+let job3Captions = ["With my inspiring mentor", "Fellow interns 🍵", "During Professional Workshop"];
 
 function moveSlide(direction, sliderId, captionId, captions) {
   const slider = document.getElementById(sliderId);
