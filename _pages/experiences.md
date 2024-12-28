@@ -107,7 +107,7 @@ author_profile: true
 
       <!-- Image Slider for Job 3 -->
       <div class="photo-gallery" style="margin-top: 20px; text-align: center;">
-        <div class="slider-container" style="position: relative; width: 80%; aspect-ratio: 16/9; margin: 0 auto; overflow: hidden; border-radius: 10px; background-color: #f4f4f4;">
+        <div class="slider-container" style="position: relative; width: 100%; aspect-ratio: 16/9; margin: 0 auto; overflow: hidden; border-radius: 10px; background-color: #f4f4f4;">
           <div class="slider" id="slider-3" style="display: flex; transition: transform 0.5s ease-in-out;" data-index="0">
             <div class="slide" style="min-width: 100%; display: flex; align-items: center; justify-content: center;">
               <img src="\files\job\Bgi\boss.jpg" alt="With my inspiring mentor" style="width: 100%; height: 100%; object-fit: contain;">
