@@ -7,62 +7,81 @@ author_profile: true
 
 <div class="main-content">
   <div id="news">
-    <h2 style="text-align: left; font-size: 18px; font-weight: bold;">News & Updates</h2>
-    <p style="font-size: 15px; text-align: justify;">Stay updated with my latest achievements, experiences, and milestones. Use the filter feature below to find specific updates based on categories.</p>
+    <!-- <h2 style="text-align: left; font-size: 18px; font-weight: bold;">News & Updates</h2> -->
+    <p style="font-size: 15px; text-align: justify;">Stay updated with my latest achievements, experiences, and milestones. Use the filter feature below to find specific updates based on year or month.</p>
 
     <div class="filter-section" style="margin-top: 20px;">
-      <label for="filter" style="font-size: 16px;">Filter by category:</label>
-      <select id="filter" style="font-size: 15px; margin-left: 10px; padding: 5px;">
-        <option value="all">All</option>
-        <option value="education">Education</option>
-        <option value="publication">Publications</option>
-        <option value="professional">Professional Experiences</option>
-        <option value="award">Honors & Awards</option>
-        <option value="volunteer">Volunteer Activities</option>
+      <label for="filter-year" style="font-size: 16px;">Filter by year:</label>
+      <select id="filter-year" style="font-size: 15px; margin-left: 10px; padding: 5px;">
+        <option value="all">All Years</option>
+        <option value="2024">2024</option>
+        <option value="2023">2023</option>
+        <option value="2022">2022</option>
+      </select>
+      <label for="filter-month" style="font-size: 16px; margin-left: 20px;">Filter by month:</label>
+      <select id="filter-month" style="font-size: 15px; margin-left: 10px; padding: 5px;">
+        <option value="all">All Months</option>
+        <option value="01">January</option>
+        <option value="02">February</option>
+        <option value="03">March</option>
+        <option value="04">April</option>
+        <option value="05">May</option>
+        <option value="06">June</option>
+        <option value="07">July</option>
+        <option value="08">August</option>
+        <option value="09">September</option>
+        <option value="10">October</option>
+        <option value="11">November</option>
+        <option value="12">December</option>
       </select>
     </div>
 
     <div id="news-list" style="margin-top: 20px;">
-
-      <div class="news-item" data-category="education">
-        <p style="font-size: 15px; text-align: justify;">🎓 <strong>Bachelor of Science in Industrial & Production Engineering</strong><br> 🏫 <a href="https://kuet.ac.bd/" target="_blank"><strong>Khulna University of Engineering & Technology</strong></a><br>📅 <strong>| Feb 2017 – Apr 2022</strong></p>
-        <p style="font-size: 15px; text-align: justify;">CGPA: 3.65/4.00 (3.78 in last four semesters)</p>
+      <div class="news-item" data-year="2024" data-month="11">
+        <p style="font-size: 15px; text-align: justify;">11/24/2024: Awarded <strong>International Student Award</strong> from the Lions Clubs International of Norman, Oklahoma for contributions to the University of Oklahoma campus and the local community. <a href="#" target="_blank">[Link]</a></p>
       </div>
 
-      <div class="news-item" data-category="publication">
-        <p style="font-size: 15px; text-align: justify;">📚 <strong>Application of artificial intelligence in reverse logistics</strong><br> 📝 <a href="#" target="_blank">Supply Chain Analytics, Vol. 7, September 2024</a><br>Co-Author: G M Iqbal Mahmud</p>
+      <div class="news-item" data-year="2024" data-month="10">
+        <p style="font-size: 15px; text-align: justify;">10/24/2024: Organized two research sessions titled "<strong>Towards Sustainable Resilient Communities</strong>" and two panel sessions on decision making in community resilience at the 2024 INFORMS Annual Meeting in Seattle, WA.</p>
       </div>
 
-      <div class="news-item" data-category="professional">
-        <p style="font-size: 15px; text-align: justify;">🛠 <strong>Supply Chain Planning Officer</strong><br> 🏢 <a href="https://www.unileverconsumercarebd.com/" target="_blank"><strong>Unilever Consumer Care Limited</strong></a><br>📅 <strong>| Jun 2023 - Aug 2024</strong></p>
-        <p style="font-size: 15px; text-align: justify;">Led daily Master Production Schedule (MPS) meetings, coordinating a team of 20 to drive updates and actionable plans across three plants.</p>
+      <div class="news-item" data-year="2024" data-month="10">
+        <p style="font-size: 15px; text-align: justify;">10/15/2024: Accepted into the <strong>Decision Sciences Institute (DSI) Doctoral Consortium</strong> at the 2024 DSI Annual Conference in Phoenix, Arizona.</p>
       </div>
 
-      <div class="news-item" data-category="award">
-        <p style="font-size: 15px; text-align: justify;">🏆 <strong>Dean’s List Honoree</strong><br> 🏫 <a href="https://kuet.ac.bd/" target="_blank"><strong>Khulna University of Engineering & Technology</strong></a><br>📅 <strong>| Mar 2019</strong></p>
-        <p style="font-size: 15px; text-align: justify;">Awarded in recognition of maintaining an average GPA of 3.75 or above across two regular terms in an academic year.</p>
+      <div class="news-item" data-year="2024" data-month="09">
+        <p style="font-size: 15px; text-align: justify;">09/24/2024: Presented poster "<strong>AI-ML for Optimal Building Mitigation in Flood-Prone Communities</strong>" at the Gallogly College of Engineering Graduate Student Poster Fair.</p>
       </div>
 
-      <div class="news-item" data-category="volunteer">
-        <p style="font-size: 15px; text-align: justify;">🌍 <strong>Level 7 Local Guide</strong><br> 🏢 <a href="https://maps.google.com" target="_blank"><strong>Google Maps</strong></a><br>📅 <strong>| Oct 2019 - Present</strong></p>
-        <p style="font-size: 15px; text-align: justify;">Completed 1,319 contributions, generating 831,000+ views.</p>
+      <div class="news-item" data-year="2024" data-month="08">
+        <p style="font-size: 15px; text-align: justify;">08/11/2024: Attended <strong>Business Analytics Future BAProf 2024</strong> workshop organized by the University of Iowa Tippie College of Business at Iowa City, Iowa. <a href="#" target="_blank">[Link]</a></p>
       </div>
-
     </div>
   </div>
 </div>
 
 <script>
-document.getElementById('filter').addEventListener('change', function() {
-  const category = this.value;
+const yearFilter = document.getElementById('filter-year');
+const monthFilter = document.getElementById('filter-month');
+
+function filterNews() {
+  const selectedYear = yearFilter.value;
+  const selectedMonth = monthFilter.value;
   const newsItems = document.querySelectorAll('.news-item');
 
   newsItems.forEach(item => {
-    if (category === 'all' || item.dataset.category === category) {
+    const itemYear = item.getAttribute('data-year');
+    const itemMonth = item.getAttribute('data-month');
+
+    if ((selectedYear === 'all' || itemYear === selectedYear) &&
+        (selectedMonth === 'all' || itemMonth === selectedMonth)) {
       item.style.display = 'block';
     } else {
       item.style.display = 'none';
     }
   });
-});
+}
+
+yearFilter.addEventListener('change', filterNews);
+monthFilter.addEventListener('change', filterNews);
 </script>

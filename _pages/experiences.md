@@ -7,7 +7,7 @@ author_profile: true
 
 <div class="main-content">
   <div id="experience">
-    <h2 style="text-align: left; font-size: 18px; font-weight: bold;">EXPERIENCES</h2>
+    <!-- <h2 style="text-align: left; font-size: 18px; font-weight: bold;">EXPERIENCES</h2> -->
 
     <div class="experience" data-year="2023">
       <p style="font-size: 15px; text-align: justify;">🛠 <strong>Supply Chain Planning Officer – Nutrition</strong><br> 🏢 <a href="https://www.unileverconsumercarebd.com/" target="_blank"><strong>Unilever Consumer Care Limited</strong></a>, Dhaka<br>📅 <strong>Jun 2023 – Aug 2024</strong></p>

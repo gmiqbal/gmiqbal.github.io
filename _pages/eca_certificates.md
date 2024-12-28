@@ -7,7 +7,7 @@ author_profile: true
 
 <div class="main-content">
   <div id="eca-certifications">
-    <h2 style="text-align: left; font-size: 18px; font-weight: bold;">VOLUNTEER & CO-CURRICULAR EXPERIENCES</h2>
+    <!-- <h2 style="text-align: left; font-size: 18px; font-weight: bold;">VOLUNTEER & CO-CURRICULAR EXPERIENCES</h2> -->
 
     <div class="experience" data-year="2019">
       <p style="font-size: 15px; text-align: justify;">🌍 <strong>Level 7 Local Guide</strong><br> 🏢 <a href="https://maps.google.com" target="_blank"><strong>Google Maps</strong></a><br>📅 <strong>| Oct 2019 - Present</strong></p>
