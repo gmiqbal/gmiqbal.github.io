@@ -5,14 +5,14 @@
 # prevent it from being included in the site.
 
 main:
-  - title: "Publications"
-    url: /publications/
-
   - title: "Academics"
     url: /academics/    
 
   - title: "Job <br> Experiences"
     url: /experience/
+
+  - title: "Publications"
+    url: /publications/
 
   - title: "ECA & <br> Certifications"
     url: /eca-certifications/    
@@ -20,11 +20,11 @@ main:
   - title: "News & <br> Updates"
     url: /news/
         
-  - title: "Blog Posts"
-    url: /year-archive/
+  # - title: "Blog Posts"
+  #   url: /year-archive/
     
   - title: "CV"
     url: /files/GM_Iqbal_Academic_CV.pdf
     
-  - title: "Guide"
-    url: /markdown/
+  # - title: "Guide"
+  #   url: /markdown/
