@@ -42,27 +42,27 @@ author_profile: true
 
     <div id="news-list" style="margin-top: 20px;">
       <div class="news-item" data-year="2024" data-month="09">
-        <p style="font-size: 15px; text-align: justify;">09/30/2024: Achieved <strong>GRE score of 303</strong>, including Quantitative 157 and Verbal 146, Analytical Writing 3.5.</p>
+        <p style="font-size: 15px; text-align: justify;">30 Sep 2024: Achieved <strong>GRE score of 303</strong>, including Quantitative 157 and Verbal 146, Analytical Writing 3.5.</p>
       </div>
 
       <div class="news-item" data-year="2024" data-month="10">
-        <p style="font-size: 15px; text-align: justify;">10/29/2024: Earned an overall band of <strong>7.0 in IELTS</strong>, with 8.0 in Listening and 7.0 in Reading and Writing.</p>
+        <p style="font-size: 15px; text-align: justify;">29 Oct 2024: Earned an overall band of <strong>7.0 in IELTS</strong>, with 8.0 in Listening and 7.0 in Reading and Writing.</p>
       </div>
 
       <div class="news-item" data-year="2024" data-month="09">
-        <p style="font-size: 15px; text-align: justify;">09/15/2024: Published research on <strong>Reverse Logistics AI</strong> in Supply Chain Analytics.</p>
+        <p style="font-size: 15px; text-align: justify;">15 Sep 2024: Published research on <strong>Reverse Logistics AI</strong> in Supply Chain Analytics.</p>
       </div>
 
       <div class="news-item" data-year="2023" data-month="06">
-        <p style="font-size: 15px; text-align: justify;">06/30/2023: Joined <strong>Unilever Consumer Care Limited</strong> as a Supply Chain Planning Officer.</p>
+        <p style="font-size: 15px; text-align: justify;">30 Jun 2023: Joined <strong>Unilever Consumer Care Limited</strong> as a Supply Chain Planning Officer.</p>
       </div>
 
       <div class="news-item" data-year="2022" data-month="09">
-        <p style="font-size: 15px; text-align: justify;">09/10/2022: Completed <strong>ULIP Internship</strong> at Unilever Bangladesh Limited in Supply Chain.</p>
+        <p style="font-size: 15px; text-align: justify;">10 Sep 2022: Completed <strong>ULIP Internship</strong> at Unilever Bangladesh Limited in Supply Chain.</p>
       </div>
 
       <div class="news-item" data-year="2022" data-month="04">
-        <p style="font-size: 15px; text-align: justify;">04/30/2022: Graduated with a <strong>Bachelor of Science in Industrial & Production Engineering</strong> from Khulna University of Engineering & Technology.</p>
+        <p style="font-size: 15px; text-align: justify;">30 Apr 2022: Graduated with a <strong>Bachelor of Science in Industrial & Production Engineering</strong> from Khulna University of Engineering & Technology.</p>
       </div>
     </div>
   </div>

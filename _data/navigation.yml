@@ -5,20 +5,20 @@
 # prevent it from being included in the site.
 
 main:
+  - title: "📢 News"
+    url: /news/
+
   - title: "🎓 Academics"
     url: /academics/    
-
-  - title: "💼 Job <br> Experiences"
-    url: /experience/
 
   - title: "📝 Publications"
     url: /publications/
 
+  - title: "💼 Job <br> Experiences"
+    url: /experience/
+
   - title: "🐾 ECA & <br> Certifications"
     url: /eca-certifications/    
-    
-  - title: "📢 News"
-    url: /news/
         
   # - title: "Blog Posts"
   #   url: /year-archive/
