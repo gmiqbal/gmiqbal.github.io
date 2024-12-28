@@ -14,16 +14,16 @@ author_profile: true
 
       <!-- Image Slider for Job 1 -->
       <div class="photo-gallery" style="margin-top: 20px; text-align: center;">
-        <div class="slider-container" style="position: relative; width: 80%; margin: 0 auto; overflow: hidden; border-radius: 10px; background-color: #f4f4f4;">
+        <div class="slider-container" style="position: relative; width: 80%; aspect-ratio: 16/9; margin: 0 auto; overflow: hidden; border-radius: 10px; background-color: #f4f4f4;">
           <div class="slider" id="slider-1" style="display: flex; transition: transform 0.5s ease-in-out;" data-index="0">
             <div class="slide" style="min-width: 100%; display: flex; align-items: center; justify-content: center;">
-              <img src="\files\job\ucl\IMG-20240820-WA0028~2.jpg" alt="A heartfelt farewell from incredible mentors!" style="max-width: 100%; max-height: 100%; object-fit: contain;">
+              <img src="\files\job\ucl\IMG-20240820-WA0028~2.jpg" alt="A heartfelt farewell from incredible mentors!" style="width: 100%; height: 100%; object-fit: contain;">
             </div>
             <div class="slide" style="min-width: 100%; display: flex; align-items: center; justify-content: center;">
-              <img src="\files\job\ucl\IMG_20230910_233726_775-1.webp" alt="UCL Team" style="max-width: 100%; max-height: 100%; object-fit: contain;">
+              <img src="\files\job\ucl\IMG_20230910_233726_775-1.webp" alt="UCL Team" style="width: 100%; height: 100%; object-fit: contain;">
             </div>
             <div class="slide" style="min-width: 100%; display: flex; align-items: center; justify-content: center;">
-              <img src="\files\job\ucl\IMG-20231203-WA0017.jpg" alt="One Planning Team" style="max-width: 100%; max-height: 100%; object-fit: contain;">
+              <img src="\files\job\ucl\IMG-20231203-WA0017.jpg" alt="One Planning Team" style="width: 100%; height: 100%; object-fit: contain;">
             </div>
           </div>
         </div>
@@ -71,13 +71,13 @@ author_profile: true
         <div class="slider-container" style="position: relative; width: 80%; aspect-ratio: 16/9; margin: 0 auto; overflow: hidden; border-radius: 10px; background-color: #f4f4f4;">
           <div class="slider" id="slider-2" style="display: flex; transition: transform 0.5s ease-in-out;" data-index="0">
             <div class="slide" style="min-width: 100%; display: flex; align-items: center; justify-content: center;">
-              <img src="\files\job\Ubl\ULIPs LinkedIn Asset.png" alt="ULIP Program Asset" style="max-width: 100%; max-height: 100%; object-fit: cover;">
+              <img src="\files\job\Ubl\ULIPs LinkedIn Asset.png" alt="ULIP Program Asset" style="width: 100%; height: 100%; object-fit: contain;">
             </div>
             <div class="slide" style="min-width: 100%; display: flex; align-items: center; justify-content: center;">
-              <img src="\files\job\Ubl\ULIPs.jpg" alt="Purpose Workshop" style="max-width: 100%; max-height: 100%; object-fit: cover;">
+              <img src="\files\job\Ubl\ULIPs.jpg" alt="Purpose Workshop" style="width: 100%; height: 100%; object-fit: contain;">
             </div>
             <div class="slide" style="min-width: 100%; display: flex; align-items: center; justify-content: center;">
-              <img src="\files\job\Ubl\Slide.jpg" alt="Report on Factory visit" style="max-width: 100%; max-height: 100%; object-fit: cover;">
+              <img src="\files\job\Ubl\Slide.jpg" alt="Report on Factory visit" style="width: 100%; height: 100%; object-fit: contain;">
             </div>
           </div>
         </div>
@@ -109,14 +109,14 @@ author_profile: true
       <div class="photo-gallery" style="margin-top: 20px; text-align: center;">
         <div class="slider-container" style="position: relative; width: 80%; aspect-ratio: 16/9; margin: 0 auto; overflow: hidden; border-radius: 10px; background-color: #f4f4f4;">
           <div class="slider" id="slider-3" style="display: flex; transition: transform 0.5s ease-in-out;" data-index="0">
-            <div class="slide" style="min-width: 100%; height: 100%; display: flex; align-items: center; justify-content: center;">
-              <img src="\files\job\Bgi\boss.jpg" alt="With my inspiring mentor" style="width: 100%; height: 100%; object-fit: cover;">
+            <div class="slide" style="min-width: 100%; display: flex; align-items: center; justify-content: center;">
+              <img src="\files\job\Bgi\boss.jpg" alt="With my inspiring mentor" style="width: 100%; height: 100%; object-fit: contain;">
             </div>
-            <div class="slide" style="min-width: 100%; height: 100%; display: flex; align-items: center; justify-content: center;">
-              <img src="\files\job\Bgi\interns.JPG" alt="Fellow interns 🍵" style="width: 100%; height: 100%; object-fit: cover;">
+            <div class="slide" style="min-width: 100%; display: flex; align-items: center; justify-content: center;">
+              <img src="\files\job\Bgi\interns.JPG" alt="Fellow interns 🍵" style="width: 100%; height: 100%; object-fit: contain;">
             </div>
-            <div class="slide" style="min-width: 100%; height: 100%; display: flex; align-items: center; justify-content: center;">
-              <img src="\files/job/Bgi/workshop.JPG" alt="During Professional Workshop" style="width: 100%; height: 100%; object-fit: cover;">
+            <div class="slide" style="min-width: 100%; display: flex; align-items: center; justify-content: center;">
+              <img src="\files/job/Bgi/workshop.JPG" alt="During Professional Workshop" style="width: 100%; height: 100%; object-fit: contain;">
             </div>
           </div>
         </div>
