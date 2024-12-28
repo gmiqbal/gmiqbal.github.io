@@ -64,23 +64,4 @@ $(document).ready(function(){
 
 });
 
-// Dark Mode Toggle
-document.addEventListener("DOMContentLoaded", () => {
-  const darkModeToggle = document.getElementById("dark-mode-toggle");
-  const isDarkMode = localStorage.getItem("dark-mode") === "true";
-
-  // Apply dark mode if saved in localStorage
-  if (isDarkMode) {
-    document.body.classList.add("dark-mode");
-    darkModeToggle.textContent = "🌞"; // Light mode icon
-  }
-
-  // Toggle dark mode on button click
-  darkModeToggle.addEventListener("click", () => {
-    document.body.classList.toggle("dark-mode");
-    const isDarkModeEnabled = document.body.classList.contains("dark-mode");
-    localStorage.setItem("dark-mode", isDarkModeEnabled); // Save preference
-    darkModeToggle.textContent = isDarkModeEnabled ? "🌞" : "🌙";
-  });
-});
 
