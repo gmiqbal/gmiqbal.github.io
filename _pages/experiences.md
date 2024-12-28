@@ -96,7 +96,7 @@ author_profile: true
         <li> Got selected for the prestigious Unilever Leadership Internship Programme (ULIP) in Supply Chain competing nationally against 4,500+ candidates through a rigorous 4-phase recruitment process </li>
         <li>Successfully completed induction on manufacturing, warehouse, operations, and quality at MFPL, Gazipur factory, gaining a thorough understanding of the production process.</li>
         <li>Restructured the Forecast Accuracy & Forecast Bias files, bringing in more automation that aligned with business needs and KPI reporting.</li>
-        <li>Developed automated production planning tool using Microsoft Excel and Microsoft Visual Basic, streamlining the planning process and reducing complexities significantly.</li>
+        <li>Developed automated production planning tool called "No Touch Production Planning (NTPP)" using Microsoft Excel and Microsoft Visual Basic, streamlining the planning process and reducing complexities significantly.</li>
       </ul>
     </div>
 
@@ -110,13 +110,13 @@ author_profile: true
         <div class="slider-container" style="position: relative; width: 80%; aspect-ratio: 16/9; margin: 0 auto; overflow: hidden; border-radius: 10px; background-color: #f4f4f4;">
           <div class="slider" id="slider-3" style="display: flex; transition: transform 0.5s ease-in-out;" data-index="0">
             <div class="slide" style="min-width: 100%; display: flex; align-items: center; justify-content: center;">
-              <img src="\files\job\Bgi\boss.jpg" alt="With my inspiring mentor" style="max-width: 100%; max-height: 100%; object-fit: cover;">
+              <img src="\files\job\Bgi\boss.jpg" alt="With my inspiring mentor" style="width: 100%; height: 100%; object-fit: cover;">
             </div>
             <div class="slide" style="min-width: 100%; display: flex; align-items: center; justify-content: center;">
-              <img src="\files\job\Bgi\interns.JPG" alt="Fellow interns 🍵" style="max-width: 100%; max-height: 100%; object-fit: cover;">
+              <img src="\files\job\Bgi\interns.JPG" alt="Fellow interns 🍵" style="width: 100%; height: 100%; object-fit: cover;">
             </div>
             <div class="slide" style="min-width: 100%; display: flex; align-items: center; justify-content: center;">
-              <img src="\files/job/Bgi/workshop.JPG" alt="During Professional Workshop" style="max-width: 100%; max-height: 100%; object-fit: cover;">
+              <img src="\files/job/Bgi/workshop.JPG" alt="During Professional Workshop" style="width: 100%; height: 100%; object-fit: cover;">
             </div>
           </div>
         </div>
