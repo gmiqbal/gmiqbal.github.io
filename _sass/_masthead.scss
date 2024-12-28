@@ -49,13 +49,13 @@
     display: block;
     list-style-type: none;
     white-space: nowrap;
-    font-size: 0.8em; // Reduced font size
+    font-size: 0.6em; // Reduced font size
     line-height: 1.2; // Adjusted line height for better readability with line breaks
   
     &--lg {
       padding-right: 2em;
       font-weight: 700;
-      font-size: 0.9em; // Slightly larger font size for --lg items
+      font-size: 0.7em; // Slightly larger font size for --lg items
     }
   }
   
