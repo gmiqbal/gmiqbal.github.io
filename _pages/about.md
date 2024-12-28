@@ -13,5 +13,14 @@ redirect_from:
 </p>
 <p style="text-align: justify; font-size: 15px;"> I also take pride in combining technical knowledge with creativity, having <strong>worked with international clients on data-driven solutions and advanced analytics.</strong> My approach is rooted in a commitment to excellence, clear communication, and continuous learning.
 </p>
-<p style="text-align: justify; font-size: 15px;"> Feel free to browse. Whether you're here for professional collaboration, academic insights, or inspiration, I hope you find what you’re looking for. Let’s create something <strong>extraordinary together!</strong> 💪
+
+<div style="display: flex; justify-content: center; gap: 10px; margin: 20px 0;">
+  <a href="/news/" style="padding: 10px 20px; text-decoration: none; background: #007BFF; color: white; border-radius: 5px; font-size: 15px; font-weight: bold; transition: all 0.3s;">📢 News</a>
+  <a href="/academics/" style="padding: 10px 20px; text-decoration: none; background: #495057; color: white; border-radius: 5px; font-size: 15px; font-weight: bold; transition: all 0.3s;">🎓 Academics</a>
+  <a href="/publications/" style="padding: 10px 20px; text-decoration: none; background: #28A745; color: white; border-radius: 5px; font-size: 15px; font-weight: bold; transition: all 0.3s;">📝 Publications</a>
+  <a href="/experience/" style="padding: 10px 20px; text-decoration: none; background: #FFC107; color: black; border-radius: 5px; font-size: 15px; font-weight: bold; transition: all 0.3s;">💼 Experiences</a>
+  <a href="/eca-certifications/" style="padding: 10px 20px; text-decoration: none; background: #DC3545; color: white; border-radius: 5px; font-size: 15px; font-weight: bold; transition: all 0.3s;">🐾 ECA & Certs</a>
+  <a href="/files/GM_Iqbal_Academic_CV.pdf" style="padding: 10px 20px; text-decoration: none; background: #17A2B8; color: white; border-radius: 5px; font-size: 15px; font-weight: bold; transition: all 0.3s;">🔖 CV</a>
+</div>
+<p style="text-align: justify; font-size: 15px;"> Whether you're here for professional collaboration, academic insights, or inspiration, I hope you find what you’re looking for. Let’s create something <strong>extraordinary together!</strong> 💪
 </p>
