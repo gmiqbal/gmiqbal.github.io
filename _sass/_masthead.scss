@@ -33,10 +33,17 @@
       a {
         text-decoration: none;
       }
+  
+      h1 {
+        font-size: 1.5em; /* Decreased font size for title */
+        line-height: 1.2;
+        margin: 0;
+      }
     }
   }
   
   .masthead__menu {
+  
     ul {
       margin: 0;
       padding: 0;
@@ -49,13 +56,10 @@
     display: block;
     list-style-type: none;
     white-space: nowrap;
-    font-size: 0.6em; // Reduced font size
-    line-height: 1.2; // Adjusted line height for better readability with line breaks
   
     &--lg {
       padding-right: 2em;
       font-weight: 700;
-      font-size: 0.7em; // Slightly larger font size for --lg items
     }
   }
   

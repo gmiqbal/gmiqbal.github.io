@@ -6,7 +6,9 @@ author_profile: true
 ---
 
 <div class="main-content">
+  <p style="font-size: 15px; text-align: justify;"><strong>Research Interests:</strong> Operation research, Supply chain & logistics, Healthcare optimization, AI & ML</p>
   <p style="font-size: 15px; text-align: justify;">Check out my research on <a href="https://scholar.google.com/citations?user=3PNQt0EAAAAJ&hl=en">Google Scholar.</a></p>
+  <hr>
   <div id="publications">
     <div class="publication" data-year="2024">
       <p style="font-size: 15px; text-align: justify;">📝 <strong>Towards sustainable AI: a comprehensive framework for Green AI</strong><br> 👥 Abdulaziz Tabbakh, Lisan Al Amin, Mahbubul Islam, <strong>GM Iqbal Mahmud</strong>, Imranul Kabir Chowdhury, Md Saddam Hossain Mukta<br>📅 15th Nov 2024 | 🔗 <a href="https://link.springer.com/article/10.1007/s43621-024-00641-4">Discover Sustainability</a> | ▶ <span class="abstract-toggle" onclick="toggleAbstract('abstract-1')">Abstract</span></p>
