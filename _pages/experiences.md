@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Job <br> Experience"
+title: "Job Experiences"
 permalink: /experience/
 author_profile: true
 ---
