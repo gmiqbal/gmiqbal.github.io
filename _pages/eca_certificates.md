@@ -41,15 +41,16 @@ author_profile: true
     <h2 style="text-align: left; font-size: 18px; font-weight: bold;">CERTIFICATIONS</h2>
 
     <ul style="font-size: 15px; text-align: justify; padding-left: 20px;">
-      <li><a href="https://1drv.ms/b/s!AjAC4dHJ0YrPgZ1n4y2tMMCoBFm4Dg?e=ghEOuf" target="_blank">LinkedIn Learning: <strong>R for Data Science: Analysis and Visualization</strong></a> | Dec 2024</li>
-      <li><a href="https://coursera.org/share/baa442ec50603792cce4d540a40f9f30" target="_blank"><strong>Basic Data Descriptors, Statistical Distributions, and Application to Business Decisions</strong></a> | Aug 2021</li>
-      <li><a href="https://1drv.ms/b/s!AjAC4dHJ0YrPontiWmG3eWnLDAiV?e=xk2Xxy" target="_blank">BDJobs: <strong>Modern Practices of Supply Chain & Logistics Management</strong></a> | Jun 2021</li>
-      <li><a href="https://coursera.org/share/ed4a66b22f4bf3c062b29abfd518094b" target="_blank">Coursera/Macquarie University: <strong>Excel Skills for Business Specialization</strong></a> | Aug 2020</li>
-      <li><a href="https://coursera.org/share/539548d77662a4912cf7165f00e14243" target="_blank">Coursera/University of Illinois: <strong>Operations Management: Organization and Analysis</strong></a> | May 2020</li>
+      <li><Strong>LinkedIn Learning:</Strong> <a href="https://1drv.ms/b/s!AjAC4dHJ0YrPgZ1n4y2tMMCoBFm4Dg?e=ghEOuf" target="_blank"> <strong>R for Data Science: Analysis and Visualization</strong></a> | Dec 2024</li>
+      <li><Strong>Coursera: </Strong><a href="https://coursera.org/share/baa442ec50603792cce4d540a40f9f30" target="_blank"><strong>Basic Data Descriptors, Statistical Distributions, and Application to Business Decisions</strong></a> | Aug 2021</li>
+      <li><Strong>BDJobs:</Strong><a href="https://1drv.ms/b/s!AjAC4dHJ0YrPontiWmG3eWnLDAiV?e=xk2Xxy" target="_blank"><strong>Modern Practices of Supply Chain & Logistics Management</strong></a> | Jun 2021</li>
+      <li><Strong>Coursera/Macquarie University:</Strong><a href="https://coursera.org/share/ed4a66b22f4bf3c062b29abfd518094b" target="_blank"> <strong>Excel Skills for Business Specialization</strong></a> | Aug 2020</li>
+      <li><Strong>Coursera/University of Illinois:</Strong><a href="https://coursera.org/share/539548d77662a4912cf7165f00e14243" target="_blank"> <strong>Operations Management: Organization and Analysis</strong></a> | May 2020</li>
       <li><a href="https://1drv.ms/i/s!AjAC4dHJ0YrPoDh3iV2cGdQTT_pi?e=hWwUh5" target="_blank">Bangladesh Youth Leadership Center: <strong>Art and Practice of Leadership Workshop</strong></a> | Jun 2021</li>
     </ul>
   </div>
 </div>
+<hr>
 
 <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap; margin: 20px 0;">
   <a href="/news/" style="padding: 6px 12px; text-decoration: none; background: #f0f0f0; color: #333; border-radius: 3px; font-size: 14px; transition: all 0.3s; border: 1px solid #ccc;">📢 News</a>

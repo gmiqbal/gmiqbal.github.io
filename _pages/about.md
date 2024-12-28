@@ -17,6 +17,8 @@ redirect_from:
 <p style="text-align: justify; font-size: 15px;"> Whether you're here for professional collaboration, academic insights, or inspiration, I hope you find what you’re looking for. Let’s create something <strong>extraordinary together!</strong> 💪
 </p>
 
+<hr>
+
 <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap; margin: 20px 0;">
   <a href="/news/" style="padding: 6px 12px; text-decoration: none; background: #f0f0f0; color: #333; border-radius: 3px; font-size: 14px; transition: all 0.3s; border: 1px solid #ccc;">📢 News</a>
   <a href="/academics/" style="padding: 6px 12px; text-decoration: none; background: #f0f0f0; color: #333; border-radius: 3px; font-size: 14px; transition: all 0.3s; border: 1px solid #ccc;">🎓 Academics</a>
