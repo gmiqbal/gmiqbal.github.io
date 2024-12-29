@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "ECA & Certifications"
+title: "Volunteer & Extracurricular Activities"
 permalink: /eca-certifications/
 author_profile: true
 ---
