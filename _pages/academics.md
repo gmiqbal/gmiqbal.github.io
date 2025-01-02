@@ -50,7 +50,7 @@ author_profile: true
 
       🏅 <strong><a href="https://www.linkedin.com/company/supplychainalliancebangladesh/posts/?feedView=all" target="_blank">Top 10 Finalists of ‘SCA Upstream’ Inter-University Case Competition</a></strong> | Supply Chain Alliance, Dhaka University - Faculty of Business Studies | 📅 <strong>Oct 2020</strong> <br>
       
-      🏅 <strong> Designing Inventory Management Dashboard Using Microsoft Power BI </strong> | Academic Project | 📅 <strong>Jun 2021</strong><br>
+      🏅 Designing Inventory Management Dashboard Using Microsoft Power BI | Academic Project | 📅 <strong>Jun 2021</strong><br>
 
       🏅 <strong><a href="https://grabcad.com/library/foldable-stair-1" target="_blank">Fold-able Stair Designing and Prototype building</a></strong> | Academic Project | 📅 <strong>Jun 2021</strong><br>
 
