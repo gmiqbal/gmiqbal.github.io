@@ -52,7 +52,7 @@ function toggleAbstract(id) {
   var abstract = document.getElementById(id);
   if (abstract.style.display === "none" || abstract.style.display === "") {
     abstract.style.display = "block";
-    abstract.previousElementSibling.querySelector('.abstract-toggle').innerText = "▼ Abstract (Click to Collapse)";
+    abstract.previousElementSibling.querySelector('.abstract-toggle').innerText = "▼ Abstract (Click 👆 to Collapse)";
   } else {
     abstract.style.display = "none";
     abstract.previousElementSibling.querySelector('.abstract-toggle').innerText = "▶ Abstract";
