@@ -57,11 +57,13 @@ author_profile: true
 
       <li><strong>BDJobs: </strong><a href="https://1drv.ms/b/s!AjAC4dHJ0YrPontiWmG3eWnLDAiV?e=xk2Xxy" target="_blank">Modern Practices of Supply Chain & Logistics Management</a> | Jun 2021</li>
 
+      <li><strong>Bangladesh Youth Leadership Center: </strong><a href="https://1drv.ms/i/s!AjAC4dHJ0YrPoDh3iV2cGdQTT_pi?e=hWwUh5" target="_blank"> Art and Practice of Leadership Workshop</a> | Jun 2021</li>
+
       <li><strong>Coursera/Macquarie University: </strong><a href="https://coursera.org/share/ed4a66b22f4bf3c062b29abfd518094b" target="_blank"> Excel Skills for Business Specialization</a> | Aug 2020</li>
 
-      <li<strong>>Coursera/University of Illinois: </strong><a href="https://coursera.org/share/539548d77662a4912cf7165f00e14243" target="_blank">Operations Management: Organization and Analysis</a> | May 2020</li>
+      <li><strong>Coursera/University of Illinois: </strong><a href="https://coursera.org/share/539548d77662a4912cf7165f00e14243" target="_blank">Operations Management: Organization and Analysis</a> | May 2020</li>
 
-      <li><strong>Bangladesh Youth Leadership Center: </strong><a href="https://1drv.ms/i/s!AjAC4dHJ0YrPoDh3iV2cGdQTT_pi?e=hWwUh5" target="_blank"> Art and Practice of Leadership Workshop</a> | Jun 2021</li>
+      
     </ul>
   </div>
 </div>
