@@ -6,8 +6,10 @@ author_profile: true
 ---
 
 <div class="main-content">
-  <p style="font-size: 15px; text-align: justify;"><strong>Research Interests:</strong> <br> Operation research, Supply chain & logistics, Healthcare optimization, AI & ML <br>
+  <p style="font-size: 18px; text-align: justify;"><strong>Research Interests:</strong> <br> Operation research, Supply chain & logistics, Healthcare optimization, AI & ML <br>
+  <br>
   Check out my research on <a href="https://scholar.google.com/citations?user=3PNQt0EAAAAJ&hl=en">Google Scholar.</a></p>
+  <hr>
   <hr>
   <div id="publications">
     <div class="publication" data-year="2024">
