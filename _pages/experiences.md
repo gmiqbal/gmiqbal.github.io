@@ -10,7 +10,7 @@ author_profile: true
     <!-- <h2 style="text-align: left; font-size: 18px; font-weight: bold;">EXPERIENCES</h2> -->
 
     <div class="experience" data-year="2023">
-      <p style="font-size: 15px; text-align: justify;">🛠 <strong>Supply Chain Planning Officer – Nutrition</strong><br> 🏢 <a href="https://www.unileverconsumercarebd.com/" target="_blank"><strong>Unilever Consumer Care Limited</strong></a>, Dhaka<br>📅 <strong>Jun 2023 – Aug 2024</strong></p>
+      <p style="font-size: 17px; text-align: justify;">🛠 <strong>Supply Chain Planning Officer – Nutrition</strong><br> 🏢 <a href="https://www.unileverconsumercarebd.com/" target="_blank"><strong>Unilever Consumer Care Limited</strong></a>, Dhaka<br>📅 <strong>Jun 2023 – Aug 2024</strong></p>
 
       <!-- Image Slider for Job 1 -->
       <div class="photo-gallery" style="margin-top: 20px; text-align: center;">
@@ -64,7 +64,7 @@ author_profile: true
     <hr>
 
     <div class="experience" data-year="2022">
-      <p style="font-size: 15px; text-align: justify;">🛠 <strong>Unilever Leadership Internship Program (ULIP) Supply Chain Intern</strong><br> 🏢 <a href="https://www.unilever.com.bd/" target="_blank"><strong>Unilever Bangladesh Limited</strong></a>, Dhaka<br>📅 <strong>Sep 2022 – Dec 2022</strong></p>
+      <p style="font-size: 17px; text-align: justify;">🛠 <strong>Unilever Leadership Internship Program (ULIP) Supply Chain Intern</strong><br> 🏢 <a href="https://www.unilever.com.bd/" target="_blank"><strong>Unilever Bangladesh Limited</strong></a>, Dhaka<br>📅 <strong>Sep 2022 – Dec 2022</strong></p>
 
       <!-- Image Slider for Job 2 -->
       <div class="photo-gallery" style="margin-top: 20px; text-align: center;">
@@ -103,7 +103,7 @@ author_profile: true
     <hr>
 
     <div class="experience" data-year="2022">
-      <p style="font-size: 15px; text-align: justify;">🛠 <strong>Supply Chain Intern</strong><br> 🏢 <a href="https://www.bengalgroup.com/" target="_blank"><strong>Bengal Group of Industries</strong></a><br>📅 <strong>Jun 2022 – Sep 2022</strong></p>
+      <p style="font-size: 17px; text-align: justify;">🛠 <strong>Supply Chain Intern</strong><br> 🏢 <a href="https://www.bengalgroup.com/" target="_blank"><strong>Bengal Group of Industries</strong></a><br>📅 <strong>Jun 2022 – Sep 2022</strong></p>
 
       <!-- Image Slider for Job 3 -->
       <div class="photo-gallery" style="margin-top: 20px; text-align: center;">
