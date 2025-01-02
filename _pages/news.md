@@ -15,6 +15,7 @@ author_profile: true
         <label for="filter-year" style="font-size: 16px;">Filter by year:</label>
         <select id="filter-year" style="font-size: 15px; margin-left: 10px; padding: 5px;">
           <option value="all">All Years</option>
+          <option value="2025">2024</option>
           <option value="2024">2024</option>
           <option value="2023">2023</option>
           <option value="2022">2022</option>
