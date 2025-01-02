@@ -41,17 +41,17 @@ author_profile: true
     <h2 style="text-align: left; font-size: 18px; font-weight: bold;">Certifications</h2>
 
     <ul style="font-size: 15px; text-align: justify; padding-left: 20px;">
-      <li><strong>LinkedIn Learning: </strong><a href="https://www.linkedin.com/learning/certificates/9c74d2554bd594d359a150e175720d0edd5cc934858b5eaecd296898585fb19f" target="_blank"> Data Visualization in R with ggplot2</strong></a> | Dec 2024</li>
-      
-      <li><strong>LinkedIn Learning: </strong><a href="https://1drv.ms/b/s!AjAC4dHJ0YrPgZ1n4y2tMMCoBFm4Dg?e=ghEOuf" target="_blank"> R for Data Science: Analysis and Visualization</strong></a> | Dec 2024</li>
+      <li><strong>LinkedIn Learning: </strong><a href="https://www.linkedin.com/learning/certificates/9c74d2554bd594d359a150e175720d0edd5cc934858b5eaecd296898585fb19f" target="_blank"> Data Visualization in R with ggplot2</a> | Dec 2024</li>
 
-      <li><strong>Notion: </strong><a href="https://www.credly.com/badges/44c34846-9d1c-48dd-be13-6f58c8f1ec48/public_url" target="_blank"> Notion Essential Badge Certification</strong></a> | Oct 2022</li>
+      <li><strong>LinkedIn Learning: </strong><a href="https://1drv.ms/b/s!AjAC4dHJ0YrPgZ1n4y2tMMCoBFm4Dg?e=ghEOuf" target="_blank"> R for Data Science: Analysis and Visualization</a> | Dec 2024</li>
 
-      <li><strong>Notion: </strong><a href="https://www.linkedin.com/learning/certificates/AQmvfvw8aza2Wa392HT_-BfMOlMD" target="_blank"> SQL: Data Reporting and Analysis</strong></a> | Sep 2022</li>
+      <li><strong>Notion: </strong><a href="https://www.credly.com/badges/44c34846-9d1c-48dd-be13-6f58c8f1ec48/public_url" target="_blank"> Notion Essential Badge Certification</a> | Oct 2022</li>
 
-      <li><strong>Notion: </strong><a href="https://www.linkedin.com/learning/certificates/AQ6o0TQjrUmz4xmTLk4bfF6sd0XW" target="_blank"> Excel: PivotTables in Depth</strong></a> | Aug 2022</li>
+      <li><strong>Notion: </strong><a href="https://www.linkedin.com/learning/certificates/AQmvfvw8aza2Wa392HT_-BfMOlMD" target="_blank"> SQL: Data Reporting and Analysis</a> | Sep 2022</li>
 
-      <li><strong>Notion: </strong><a href="<li><strong>Notion: </strong><a href="https://www.linkedin.com/learning/certificates/AQ6o0TQjrUmz4xmTLk4bfF6sd0XW" target="_blank"> Excel: PivotTables in Depth</strong></a> | Aug 2022</li>" target="_blank"> SAP ERP Essential Training</strong></a> | Jun 2022</li>
+      <li><strong>Notion: </strong><a href="https://www.linkedin.com/learning/certificates/AQ6o0TQjrUmz4xmTLk4bfF6sd0XW" target="_blank"> Excel: PivotTables in Depth</a> | Aug 2022</li>
+
+      <li><strong>Notion: </strong><a href="<li><strong>Notion: </strong><a href="https://www.linkedin.com/learning/certificates/AQ6o0TQjrUmz4xmTLk4bfF6sd0XW" target="_blank"> SAP ERP Essential Training</a> | Jun 2022</li>
 
       <li><strong>Coursera: </strong><a href="https://coursera.org/share/baa442ec50603792cce4d540a40f9f30" target="_blank">Basic Data Descriptors, Statistical Distributions, and Application to Business Decisions</strong></a> | Aug 2021</li>
 
