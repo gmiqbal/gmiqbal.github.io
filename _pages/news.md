@@ -44,16 +44,16 @@ author_profile: true
 
     <!-- Write below here -->
      <div class="news-item" data-year="2024" data-month="12">
-        <p style="font-size: 15px; text-align: justify;">28 Dec 2024: Created a <strong> profesional portfolio </strong> using Jekyll and GitHub pages. ^_^ </p>
+        <p style="font-size: 15px; text-align: justify;">28 Dec 2024: Created a <strong> professional portfolio </strong> using Jekyll and GitHub pages. ^_^ </p>
       </div>
 
-
-      <div class="news-item" data-year="2024" data-month="09">
-        <p style="font-size: 15px; text-align: justify;">30 Sep 2024: Achieved <strong>GRE score of 303</strong>, including Quantitative 157 and Verbal 146, Analytical Writing 3.5.</p>
-      </div>
 
       <div class="news-item" data-year="2024" data-month="10">
         <p style="font-size: 15px; text-align: justify;">29 Oct 2024: Earned an overall band of <strong>7.0 in IELTS</strong>, with 8.0 in Listening and 7.0 in Reading and Writing.</p>
+      </div>
+
+      <div class="news-item" data-year="2024" data-month="09">
+        <p style="font-size: 15px; text-align: justify;">30 Sep 2024: Achieved <strong>GRE score of 303</strong>, including Quantitative 157 and Verbal 146, Analytical Writing 3.5.</p>
       </div>
 
       <div class="news-item" data-year="2024" data-month="09">

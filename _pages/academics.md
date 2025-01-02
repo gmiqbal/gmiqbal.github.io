@@ -46,9 +46,17 @@ author_profile: true
 
       🏅 <strong><a href="https://www.kuet.ac.bd/" target="_blank">Technical Scholarship</a></strong> | Khulna University of Engineering & Technology | 📅 <strong>Four consecutive academic years</strong><br>
 
-      🏅 <strong><a href="https://iscea-bangladesh.com/ptakprize/" target="_blank">ISCEA PTAK Prize Case Competition - 60% Scholarship</a></strong> | International Supply Chain Education Alliance Bangladesh | 📅 <strong>Jul 2021</strong><br>
+      🏅 <strong><a href="https://www.linkedin.com/posts/gmiqbal_iscea-ptakabrprize-supplychainmanagement-activity-6827266412197888000-1sRf?utm_source=share&utm_medium=member_desktop" target="_blank">ISCEA PTAK Prize Case Competition - 60% Scholarship</a></strong> | International Supply Chain Education Alliance Bangladesh | 📅 <strong>Jul 2021</strong><br>
 
       🏅 <strong><a href="https://www.linkedin.com/company/supplychainalliancebangladesh/posts/?feedView=all" target="_blank">Top 10 Finalists of ‘SCA Upstream’ Inter-University Case Competition</a></strong> | Supply Chain Alliance, Dhaka University - Faculty of Business Studies | 📅 <strong>Oct 2020</strong>
+
+      🏅 <strong>Designing Inventory Management Dashboard Using Microsoft Power BI</strong> | Academic Project | 📅 <strong>Jun 2021</strong><br>
+
+      🏅 <strong><a href="https://grabcad.com/library/foldable-stair-1" target="_blank">Fold-able Stair Designing and Prototype building</a></strong> | Academic Project | 📅 <strong>Jun 2021</strong><br>
+
+      🏅 <strong><a href="https://grabcad.com/library/tractor-83" target="_blank">Full Tractor designing using Solidworks 3D Modelling</a></strong> | Academic Project | 📅 <strong>Jun 2021</strong><br>
+
+      
     </div>
   </div>
 

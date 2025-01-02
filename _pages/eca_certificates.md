@@ -38,15 +38,30 @@ author_profile: true
 
     <hr>
 
-    <h2 style="text-align: left; font-size: 18px; font-weight: bold;">CERTIFICATIONS</h2>
+    <h2 style="text-align: left; font-size: 18px; font-weight: bold;">Certifications</h2>
 
     <ul style="font-size: 15px; text-align: justify; padding-left: 20px;">
-      <li><Strong>LinkedIn Learning:</Strong> <a href="https://1drv.ms/b/s!AjAC4dHJ0YrPgZ1n4y2tMMCoBFm4Dg?e=ghEOuf" target="_blank"> <strong>R for Data Science: Analysis and Visualization</strong></a> | Dec 2024</li>
-      <li><Strong>Coursera: </Strong><a href="https://coursera.org/share/baa442ec50603792cce4d540a40f9f30" target="_blank"><strong>Basic Data Descriptors, Statistical Distributions, and Application to Business Decisions</strong></a> | Aug 2021</li>
-      <li><Strong>BDJobs:</Strong><a href="https://1drv.ms/b/s!AjAC4dHJ0YrPontiWmG3eWnLDAiV?e=xk2Xxy" target="_blank"><strong>Modern Practices of Supply Chain & Logistics Management</strong></a> | Jun 2021</li>
-      <li><Strong>Coursera/Macquarie University:</Strong><a href="https://coursera.org/share/ed4a66b22f4bf3c062b29abfd518094b" target="_blank"> <strong>Excel Skills for Business Specialization</strong></a> | Aug 2020</li>
-      <li><Strong>Coursera/University of Illinois:</Strong><a href="https://coursera.org/share/539548d77662a4912cf7165f00e14243" target="_blank"> <strong>Operations Management: Organization and Analysis</strong></a> | May 2020</li>
-      <li><a href="https://1drv.ms/i/s!AjAC4dHJ0YrPoDh3iV2cGdQTT_pi?e=hWwUh5" target="_blank">Bangladesh Youth Leadership Center: <strong>Art and Practice of Leadership Workshop</strong></a> | Jun 2021</li>
+      <li><strong>LinkedIn Learning: </strong><a href="https://www.linkedin.com/learning/certificates/9c74d2554bd594d359a150e175720d0edd5cc934858b5eaecd296898585fb19f" target="_blank"> Data Visualization in R with ggplot2</strong></a> | Dec 2024</li>
+      
+      <li><strong>LinkedIn Learning: </strong><a href="https://1drv.ms/b/s!AjAC4dHJ0YrPgZ1n4y2tMMCoBFm4Dg?e=ghEOuf" target="_blank"> R for Data Science: Analysis and Visualization</strong></a> | Dec 2024</li>
+
+      <li><strong>Notion: </strong><a href="https://www.credly.com/badges/44c34846-9d1c-48dd-be13-6f58c8f1ec48/public_url" target="_blank"> Notion Essential Badge Certification</strong></a> | Oct 2022</li>
+
+      <li><strong>Notion: </strong><a href="https://www.linkedin.com/learning/certificates/AQmvfvw8aza2Wa392HT_-BfMOlMD" target="_blank"> SQL: Data Reporting and Analysis</strong></a> | Sep 2022</li>
+
+      <li><strong>Notion: </strong><a href="https://www.linkedin.com/learning/certificates/AQ6o0TQjrUmz4xmTLk4bfF6sd0XW" target="_blank"> Excel: PivotTables in Depth</strong></a> | Aug 2022</li>
+
+      <li><strong>Notion: </strong><a href="<li><strong>Notion: </strong><a href="https://www.linkedin.com/learning/certificates/AQ6o0TQjrUmz4xmTLk4bfF6sd0XW" target="_blank"> Excel: PivotTables in Depth</strong></a> | Aug 2022</li>" target="_blank"> SAP ERP Essential Training</strong></a> | Jun 2022</li>
+
+      <li><strong>Coursera: </strong><a href="https://coursera.org/share/baa442ec50603792cce4d540a40f9f30" target="_blank">Basic Data Descriptors, Statistical Distributions, and Application to Business Decisions</strong></a> | Aug 2021</li>
+
+      <li><strong>BDJobs: </strong><a href="https://1drv.ms/b/s!AjAC4dHJ0YrPontiWmG3eWnLDAiV?e=xk2Xxy" target="_blank">Modern Practices of Supply Chain & Logistics Management</strong></a> | Jun 2021</li>
+
+      <li><strong>Coursera/Macquarie University: </strong><a href="https://coursera.org/share/ed4a66b22f4bf3c062b29abfd518094b" target="_blank"> Excel Skills for Business Specialization</strong></a> | Aug 2020</li>
+
+      <li<strong>>Coursera/University of Illinois: </strong><a href="https://coursera.org/share/539548d77662a4912cf7165f00e14243" target="_blank">Operations Management: Organization and Analysis</a> | May 2020</li>
+
+      <li><strong>Bangladesh Youth Leadership Center: </strong><a href="https://1drv.ms/i/s!AjAC4dHJ0YrPoDh3iV2cGdQTT_pi?e=hWwUh5" target="_blank"> Art and Practice of Leadership Workshop</strong></a> | Jun 2021</li>
     </ul>
   </div>
 </div>
