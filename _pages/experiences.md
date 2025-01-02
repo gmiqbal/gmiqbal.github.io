@@ -113,10 +113,10 @@ author_profile: true
               <img src="\files\job\Bgi\boss.jpg" alt="With my inspiring mentor" style="width: 100%; height: 100%; object-fit: cover;">
             </div>
             <div class="slide" style="min-width: 100%; display: flex; align-items: center; justify-content: center;">
-              <img src="\files\job\Bgi\interns.JPG" alt="Fellow interns 🍵" style="width: 100%; height: 100%; object-fit: cover;">
+              <img src="\files\job\Bgi\workshop.JPG" alt="Fellow interns 🍵" style="width: 100%; height: 100%; object-fit: cover;">
             </div>
             <div class="slide" style="min-width: 100%; display: flex; align-items: center; justify-content: center;">
-              <img src="\files/job/Bgi/workshop.JPG" alt="During Professional Workshop" style="width: 100%; height: 100%; object-fit: cover;">
+              <img src="\files/job/Bgi/interns.JPG" alt="During Professional Workshop" style="width: 100%; height: 100%; object-fit: cover;">
             </div>
           </div>
         </div>
