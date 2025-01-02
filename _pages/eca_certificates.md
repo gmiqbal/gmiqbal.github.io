@@ -10,7 +10,7 @@ author_profile: true
     <!-- <h2 style="text-align: left; font-size: 18px; font-weight: bold;">VOLUNTEER & CO-CURRICULAR EXPERIENCES</h2> -->
 
     <div class="experience" data-year="2019">
-      <p style="font-size: 15px; text-align: justify;">🌍 <strong>Level 7 Local Guide</strong><br> 🏢 <a href="https://www.google.com/maps/contrib/108461946861334340212/" target="_blank"><strong>Google Maps</strong></a><br>📅 <strong>| Oct 2019 - Present</strong></p>
+      <p style="font-size: 15px; text-align: justify;">🌍 <strong>Level 7 Local Guide</strong><br> 🏢 <a href="https://www.google.com/maps/contrib/108461946861334340212/" target="_blank"><strong>Google Maps</strong></a><br>📅 <strong> Oct 2019 - Present</strong></p>
       <ul style="font-size: 15px; text-align: justify; padding-left: 20px;">
         <li>Completed 1,319 contributions, generating 831,000+ views.</li>
         <li>Enhanced local information by adding missing locations and roads, correcting inaccuracies to support accurate navigation and information accessibility for the community.</li>
@@ -20,7 +20,7 @@ author_profile: true
     <hr>
 
     <div class="experience" data-year="2019">
-      <p style="font-size: 15px; text-align: justify;">🧑‍🏫 <strong>Senior Executive & Instructor</strong><br> 🏢 <a href="https://www.google.com/maps/contrib/108461946861334340212/" target="_blank"><strong>IEM Robotics & CAD Club</strong></a><br>📅 <strong>| Aug 2019 - Feb 2022</strong></p>
+      <p style="font-size: 15px; text-align: justify;">🧑‍🏫 <strong>Senior Executive & Instructor</strong><br> 🏢 <a href="https://www.google.com/maps/contrib/108461946861334340212/" target="_blank"><strong>IEM Robotics & CAD Club</strong></a><br>📅 <strong> Aug 2019 - Feb 2022</strong></p>
       <ul style="font-size: 15px; text-align: justify; padding-left: 20px;">
         <li>Organized and facilitated technical workshops on topics including computer programming, robotics, and CAD, enhancing participants’ skills and knowledge.</li>
         <li>Led and trained students in AutoCAD and SolidWorks, providing hands-on guidance and mentorship to improve their technical expertise.</li>
@@ -30,7 +30,7 @@ author_profile: true
     <hr>
 
     <div class="experience" data-year="2020">
-      <p style="font-size: 15px; text-align: justify;">💼 <strong>Level 1 Freelancer</strong><br> 🏢 <a href="https://www.fiverr.com/gm_iqbal_19?up_rollout=true" target="_blank"><strong>Fiverr</strong></a><br>📅 <strong>| Oct 2020 - Jul 2023</strong></p>
+      <p style="font-size: 15px; text-align: justify;">💼 <strong>Level 1 Freelancer</strong><br> 🏢 <a href="https://www.fiverr.com/gm_iqbal_19?up_rollout=true" target="_blank"><strong>Fiverr</strong></a><br>📅 <strong> Oct 2020 - Jul 2023</strong></p>
       <ul style="font-size: 15px; text-align: justify; padding-left: 20px;">
         <li>Successfully completed over 15 projects with 5-star ratings in Microsoft Excel, Forecasting, and Material Requirements Planning (MRP) for international clients.</li>
       </ul>
