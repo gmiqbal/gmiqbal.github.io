@@ -73,7 +73,6 @@ author_profile: true
   </div>
   <div style="padding-left: 24px; font-size: 15px; text-align: justify;">
       🏅 <strong><a href="\files\SSC Scholarship.jpg" target="_blank">General Government Scholarship</a></strong> | Board of Intermediate & Secondary Education, Chattogram  | 📅 <strong>Jan 2015</strong><br>
-    </div>
   </div>
 </div>
 
