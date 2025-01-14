@@ -9,7 +9,7 @@ author_profile: true
   <!-- <h2 style="text-align: left; font-size: 18px; text-align: left;">ACADEMICS</h2> -->
 
   <div class="education" data-year="2022">
-    <p style="font-size: 17px; text-align: justify;">🏫 <strong><a href="https://kuet.ac.bd/" target="_blank">Khulna University of Engineering & Technology</a></strong> Khulna, Bangladesh<br>📅 <strong>Feb 2017 – Apr 2022</strong><br>🎓 Bachelor of Science in Industrial & Production Engineering (IPE)<br>🎯 <strong>CGPA:</strong> <a href="\files\Transcripts and Certificates of Undergrad - GM Iqbal Mahmud.pdf" target="_blank">3.65 </a>/4.00 (3.78 in last four semesters)</p>
+    <p style="font-size: 17px; text-align: justify;">🏫 <strong><a href="https://kuet.ac.bd/" target="_blank">Khulna University of Engineering & Technology</a></strong> Khulna, Bangladesh<br>📅 <strong>Feb 2017 – Apr 2022</strong><br>🎓 Bachelor of Science in Industrial & Production Engineering (IPE)<br>🎯 <strong>CGPA:</strong> <a href="\files\Transcripts and Certificates of Undergrad - GM Iqbal Mahmud.pdf" target="_blank">3.65</a>/4.00 (3.78 in last four semesters)</p>
 
     <!-- Sliding Photo Gallery -->
     <div class="photo-gallery" style="margin-top: 20px; text-align: center;">
