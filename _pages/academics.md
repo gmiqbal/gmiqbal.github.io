@@ -63,13 +63,17 @@ author_profile: true
   <hr>
 
   <div class="education" data-year="2016">
-    <p style="font-size: 17px; text-align: justify;">🏫 <strong><a href="https://ctgcollege.gov.bd/" target="_blank">Chittagong College</a></strong>, Chittagong<br>📅 <strong>2014 – 2016</strong><br>🎓 Higher Secondary Certificate (HSC)<br>🎯 <strong>GPA:</strong> 5.00 / 5.00</p>
+    <p style="font-size: 17px; text-align: justify;">🏫 <strong><a href="https://ctgcollege.gov.bd/" target="_blank">Chittagong College</a></strong>, Chittagong<br>📅 <strong>2014 – 2016</strong><br>🎓 Higher Secondary Certificate (HSC)<br>🎯 <strong>GPA:</strong> <a href="\files\HSC Transcript.jpg" target="_blank">5.00</a>/ 5.00</p>
   </div>
 
   <hr>
 
   <div class="education" data-year="2014">
-    <p style="font-size: 17px; text-align: justify;">🏫 <strong><a href="https://gmhsctg.tsmts.com/" target="_blank">Govt. Muslim High School</a></strong>, Chittagong<br>📅 <strong>2012 – 2014</strong><br>🎓 Secondary School Certificate (SSC)<br>🎯 <strong>GPA:</strong> 5.00 / 5.00</p>
+    <p style="font-size: 17px; text-align: justify;">🏫 <strong><a href="https://gmhsctg.tsmts.com/" target="_blank">Govt. Muslim High School</a></strong>, Chittagong<br>📅 <strong>2012 – 2014</strong><br>🎓 Secondary School Certificate (SSC)<br>🎯 <strong>GPA:</strong> <a href="\files\SSC Transcript.jpg" target="_blank">5.00</a>/ 5.00</p>
+  </div>
+  <div style="padding-left: 24px; font-size: 15px; text-align: justify;">
+      🏅 <strong><a href="\files\SSC Scholarship.jpg" target="_blank">General Government Scholarship</a></strong> | Board of Intermediate & Secondary Education, Chattogram  | 📅 <strong>Jan 2015</strong><br>
+    </div>
   </div>
 </div>
 
