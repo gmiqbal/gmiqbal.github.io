@@ -56,7 +56,7 @@ author_profile: true
 
       🏅 <strong><a href="https://grabcad.com/library/tractor-83" target="_blank">Full Tractor designing using Solidworks 3D Modelling</a></strong> | Academic Project | 📅 <strong>Jun 2021</strong><br>
 
-      
+      📹 <strong><a href="https://youtu.be/5vWarhJZ7PU?si=vlso94FxYq3uUfrl" target="_blank">Types of Goribs in KUET</a></strong> | Shortfilm presented on KUET IPE NIGHT 2018 | 📅 <strong>Dec 2018</strong><br>
     </div>
   </div>
 
