@@ -70,12 +70,37 @@ author_profile: true
       </div>
 
       <div class="news-item" data-year="2022" data-month="09">
-        <p style="font-size: 15px; text-align: justify;">10 Sep 2022: Selected for the prestigious Unilever Leadership Internship Programme (ULIP)</strong> in Supply Chain.</p>
+        <p style="font-size: 15px; text-align: justify;">10 Sep 2022: Selected for the prestigious <strong>Unilever Leadership Internship Programme (ULIP)</strong> in Supply Chain.</p>
+      </div>
+
+      <div class="news-item" data-year="2022" data-month="06">
+        <p style="font-size: 15px; text-align: justify;">30 Jun 2022: Developed a <strong>Material Requirement Planning (MRP) dashboard</strong> for Bengal Group of Industries, streamlining material flow for four business units.</p>
       </div>
 
       <div class="news-item" data-year="2022" data-month="04">
         <p style="font-size: 15px; text-align: justify;">30 Apr 2022: Graduated with a <strong>Bachelor of Science in Industrial & Production Engineering</strong> from Khulna University of Engineering & Technology (CGPA: 3.65/4.00).</p>
       </div>
+
+      <div class="news-item" data-year="2021" data-month="07">
+        <p style="font-size: 15px; text-align: justify;">15 Jul 2021: Achieved <strong>ISCEA PTAK Prize Case Competition - 60% Scholarship</strong> from the International Supply Chain Education Alliance.</p>
+      </div>
+
+      <div class="news-item" data-year="2020" data-month="10">
+        <p style="font-size: 15px; text-align: justify;">20 Oct 2020: Became a <strong>Top 10 Finalist</strong> in the 'SCA Upstream' Inter-University Case Competition, hosted by Dhaka University.</p>
+      </div>
+
+      <div class="news-item" data-year="2019" data-month="03">
+        <p style="font-size: 15px; text-align: justify;">15 Mar 2019: Earned the prestigious <strong>Dean's List Honor</strong> from the Faculty of Mechanical Engineering at Khulna University of Engineering & Technology.</p>
+      </div>
+
+      <div class="news-item" data-year="2018" data-month="10">
+        <p style="font-size: 15px; text-align: justify;">10 Oct 2018: Secured <strong>1st Runner-Up</strong> position in the SolidWorks Workshop, hosted by the IEM Robotics & CAD Club.</p>
+      </div>
+
+      <div class="news-item" data-year="2015" data-month="01">
+        <p style="font-size: 15px; text-align: justify;">15 Jan 2015: Awarded the <strong>General Government Scholarship</strong> by the Board of Intermediate & Secondary Education, Chattogram.</p>
+      </div>
+
     </div>
   </div>
 </div>
