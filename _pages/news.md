@@ -7,15 +7,16 @@ author_profile: true
 
 <div class="main-content">
   <div id="news">
-    <!-- <h2 style="text-align: left; font-size: 18px; font-weight: bold;">News & Updates</h2> -->
-    <p style="font-size: 15px; text-align: justify;">Stay updated with my latest achievements, experiences, and milestones. Use the filter feature below to find specific updates based on year or month.</p>
+    <p style="font-size: 15px; text-align: justify;">
+      Welcome to my journey! Here, I share my milestones, accomplishments, and experiences as I grow both personally and professionally. Whether it's academic achievements, career highlights, or certifications, each update reflects my dedication to learning, growth, and creating impact. Use the filters below to explore specific updates by year or month. 😊
+    </p>
 
     <div class="filter-section" style="margin-top: 20px; display: flex; align-items: center;">
       <div style="margin-right: 20px;">
         <label for="filter-year" style="font-size: 16px;">Filter by year:</label>
         <select id="filter-year" style="font-size: 15px; margin-left: 10px; padding: 5px;">
           <option value="all">All Years</option>
-          <option value="2025">2024</option>
+          <option value="2025">2025</option>
           <option value="2024">2024</option>
           <option value="2023">2023</option>
           <option value="2022">2022</option>
@@ -42,15 +43,18 @@ author_profile: true
     </div>
 
     <div id="news-list" style="margin-top: 20px;">
+      <!-- Dynamic News Items -->
 
-    <!-- Write below here -->
-     <div class="news-item" data-year="2024" data-month="12">
-        <p style="font-size: 15px; text-align: justify;">28 Dec 2024: Created a <strong> professional portfolio </strong> using Jekyll and GitHub pages. ^_^ </p>
+      <div class="news-item" data-year="2024" data-month="12">
+        <p style="font-size: 15px; text-align: justify;">28 Dec 2024: Created a <strong>professional portfolio</strong> using Jekyll and GitHub pages. ^_^</p>
       </div>
 
+      <div class="news-item" data-year="2024" data-month="11">
+        <p style="font-size: 15px; text-align: justify;">15 Nov 2024: Published research titled "<strong>Towards Sustainable AI: A Comprehensive Framework for Green AI</strong>" in Discover Sustainability.</p>
+      </div>
 
       <div class="news-item" data-year="2024" data-month="10">
-        <p style="font-size: 15px; text-align: justify;">29 Oct 2024: Earned an overall band of <strong>7.0 in IELTS</strong>, with 8.0 in Listening and 7.0 in Reading and Writing.</p>
+        <p style="font-size: 15px; text-align: justify;">29 Oct 2024: Earned an <strong> overall band of 7.0 in IELTS</strong>, with 8.0 in Listening and 7.0 in Reading and Writing.</p>
       </div>
 
       <div class="news-item" data-year="2024" data-month="09">
@@ -58,19 +62,19 @@ author_profile: true
       </div>
 
       <div class="news-item" data-year="2024" data-month="09">
-        <p style="font-size: 15px; text-align: justify;">15 Sep 2024: Published research on <strong>Reverse Logistics AI</strong> in Supply Chain Analytics.</p>
+        <p style="font-size: 15px; text-align: justify;">15 Sep 2024: Co-authored research on <strong>Reverse Logistics AI</strong>, published in Supply Chain Analytics.</p>
       </div>
 
       <div class="news-item" data-year="2023" data-month="06">
-        <p style="font-size: 15px; text-align: justify;">30 Jun 2023: Joined <strong>Unilever Consumer Care Limited</strong> as a Supply Chain Planning Officer.</p>
+        <p style="font-size: 15px; text-align: justify;">30 Jun 2023: Began my role as a <strong>Supply Chain Planning Officer</strong> at Unilever Consumer Care Limited.</p>
       </div>
 
       <div class="news-item" data-year="2022" data-month="09">
-        <p style="font-size: 15px; text-align: justify;">10 Sep 2022: Completed <strong>ULIP Internship</strong> at Unilever Bangladesh Limited in Supply Chain.</p>
+        <p style="font-size: 15px; text-align: justify;">10 Sep 2022: Selected for the prestigious Unilever Leadership Internship Programme (ULIP)</strong> in Supply Chain.</p>
       </div>
 
       <div class="news-item" data-year="2022" data-month="04">
-        <p style="font-size: 15px; text-align: justify;">30 Apr 2022: Graduated with a <strong>Bachelor of Science in Industrial & Production Engineering</strong> from Khulna University of Engineering & Technology.</p>
+        <p style="font-size: 15px; text-align: justify;">30 Apr 2022: Graduated with a <strong>Bachelor of Science in Industrial & Production Engineering</strong> from Khulna University of Engineering & Technology (CGPA: 3.65/4.00).</p>
       </div>
     </div>
   </div>
@@ -109,5 +113,4 @@ function filterNews() {
 }
 
 yearFilter.addEventListener('change', filterNews);
-monthFilter.addEventListener('change', filterNews);
-</script>
+monthFilter.addEventLis
