@@ -39,7 +39,7 @@ author_profile: true
 
       <!-- Description continues -->
       <ul style="font-size: 15px; text-align: justify; padding-left: 20px;">
-        <li>Craft Master Production Schedule (MPS) considering production capacity, Overall Equipment Efficiency (OEE), resource utilization, sales achievement, and inventory strategies.</li>
+        <li>Led daily Master Production Schedule (MPS) meetings, coordinating a team of 20 to drive updates and actionable plans across three plants. Streamlined MPS to align with production capacity, Overall Equipment Efficiency (OEE), and inventory strategy, achieving efficient demand and resource management</li>
         <li>Develop Material Requirement Planning (MRP) considering reordering points, MOQ, Days On Hand (DOH) coverage and assist Distribution Requirement Planning (DRP) considering inventory targets and demand dynamics.</li>
         <li>Drive & monitor Supply Planning KPIs: Dispatch Rate (DR), Service Level (OTIF), Inventory FG & RM.</li>
         <li>Define material wise optimum FG, RM & PM stock norm and monitor inventory expiries to minimize SLOB materials and reduce write-offs.</li>
@@ -48,6 +48,7 @@ author_profile: true
       </ul>
       <p style="font-size: 15px; text-align: justify;">🏆 <strong>Achievements:</strong></p>
       <ul style="font-size: 15px; text-align: justify; padding-left: 20px;">
+        <li>Developed Python, Power Automate and SAP-based scripts to automate reporting, boosting ’Execution Tree’ creation speed by 270% with 100% accuracy. Additionally, implemented VBA scripts for streamlined SAP tasks like PO creation, reducing manual workload and increasing process reliability.</li>
         <li>Proactively supported Knorr SKUs demand upsurge of 158% over forecast for 03 consecutive months.</li>
         <li>19.53 Million BDT worth write-off has been avoided with proactive actions like ensuring consumption prior expiry or extending material expiry in alignment with R&D and Quality.</li>
         <li>Streamlined and rolled out Master Production Schedule (MPS) for 03 Plants (MFPL, KGF Foods, FHF).</li>
