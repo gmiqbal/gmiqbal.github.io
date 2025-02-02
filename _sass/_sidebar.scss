@@ -20,7 +20,7 @@
     // left: 3px;  // Shift sidebar left by 15px
     width: calc(#{$sidebar-link-max-width} + 2.5rem); // Compensate width for negative left position
     padding-top: calc(#{$masthead-height} - 15px); // Reduce top padding
-    padding-left: 1.5rem; // Creates space on the left edge
+    // padding-left: 1.5rem; // Creates space on the left edge
     padding-right: 1rem;
     // padding-top: calc($masthead-height - 20px); /* Moves sidebar up */
     // left: -10px; /* Moves sidebar slightly left */
@@ -40,7 +40,7 @@
 
   @include breakpoint($x-large) {
     max-width: calc(#{$sidebar-link-max-width} + 2rem); // Increase max width
-    left: -1.5rem; // Final adjustment for extra large screens
+    // left: -1.5rem; // Final adjustment for extra large screens
     padding-right: 0;
   }
 
