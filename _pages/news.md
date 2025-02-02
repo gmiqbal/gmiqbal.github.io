@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "News"
+title: "News & Updates"
 permalink: /news/
 author_profile: true
 ---
@@ -61,78 +61,97 @@ author_profile: true
     </div>
 
     <div id="news-list" style="margin-top: 20px;">
-      <!-- Existing News Items -->
+      <!-- Reverse Chronological Order -->
       <div class="news-item" data-year="2025" data-month="1" data-tags="project">
-        <p style="font-size: 15px; text-align: justify;">🔔 29 Jan 2025: Completed <a href="https://1drv.ms/f/c/cf8ad1c9d1e10230/EnpVPF7PLqZAn2g7lt0rkXEBnmbPaPYUEoXavx8MeRlqsQ?e=nqDjGg"> <strong> dynamic, interactive financial modeling and analysis </strong> </a> for Azurro Villas, Iceland. <span class="tag" style="background: #e0f7fa; padding: 2px 6px; border-radius: 3px; font-size: 13px;">#project</span></p>
+        <p style="font-size: 15px; text-align: justify;">🔔 <strong>29 Jan 2025:</strong> Completed <a href="https://1drv.ms/f/c/cf8ad1c9d1e10230/EnpVPF7PLqZAn2g7lt0rkXEBnmbPaPYUEoXavx8MeRlqsQ?e=nqDjGg">dynamic, interactive financial modeling and analysis</a> for Azurro Villas, Iceland. <span class="tag" style="background: #e0f7fa; padding: 2px 6px; border-radius: 3px; font-size: 13px;">#project</span></p>
       </div>
 
-      <!-- New Extracted Events -->
       <div class="news-item" data-year="2024" data-month="12" data-tags="certification">
-        <p style="font-size: 15px; text-align: justify;">🔔 31 Dec 2024: Completed LinkedIn Learning certifications in <strong>Data Visualization in R with ggplot2</strong> and <strong>R for Data Science: Analysis and Visualization</strong>. <span class="tag" style="background: #fff3e0; padding: 2px 6px; border-radius: 3px; font-size: 13px;">#certification</span></p>
+        <p style="font-size: 15px; text-align: justify;">🔔 <strong>31 Dec 2024:</strong> Completed LinkedIn Learning certifications in Data Visualization in R with ggplot2 and R for Data Science: Analysis and Visualization. <span class="tag" style="background: #fff3e0; padding: 2px 6px; border-radius: 3px; font-size: 13px;">#certification</span></p>
+      </div>
+
+      <div class="news-item" data-year="2024" data-month="10" data-tags="certification">
+        <p style="font-size: 15px; text-align: justify;">🔔 <strong>29 Oct 2024:</strong> Earned an overall band of 7.0 in IELTS, with 8.0 in Listening and 7.0 in Reading and Writing. <span class="tag" style="background: #fff3e0; padding: 2px 6px; border-radius: 3px; font-size: 13px;">#certification</span></p>
+      </div>
+
+      <div class="news-item" data-year="2024" data-month="9" data-tags="academic">
+        <p style="font-size: 15px; text-align: justify;">🔔 <strong>30 Sep 2024:</strong> Achieved GRE score of 303, including Quantitative 157 and Verbal 146, Analytical Writing 3.5. <span class="tag" style="background: #e8f5e9; padding: 2px 6px; border-radius: 3px; font-size: 13px;">#academic</span></p>
+      </div>
+
+      <div class="news-item" data-year="2024" data-month="9" data-tags="research">
+        <p style="font-size: 15px; text-align: justify;">🔔 <strong>15 Sep 2024:</strong> Co-authored research on Reverse Logistics AI, published in Supply Chain Analytics. <span class="tag" style="background: #fce4ec; padding: 2px 6px; border-radius: 3px; font-size: 13px;">#research</span></p>
       </div>
 
       <div class="news-item" data-year="2024" data-month="8" data-tags="job">
-        <p style="font-size: 15px; text-align: justify;">🔔 31 Aug 2024: Concluded role as <strong>Supply Chain Planning Officer</strong> at Unilever Consumer Care Limited after streamlining production planning processes. <span class="tag" style="background: #ffe0b2; padding: 2px 6px; border-radius: 3px; font-size: 13px;">#job</span></p>
+        <p style="font-size: 15px; text-align: justify;">🔔 <strong>31 Aug 2024:</strong> Concluded role as Supply Chain Planning Officer at Unilever Consumer Care Limited. <span class="tag" style="background: #ffe0b2; padding: 2px 6px; border-radius: 3px; font-size: 13px;">#job</span></p>
       </div>
 
       <div class="news-item" data-year="2024" data-month="7" data-tags="research">
-        <p style="font-size: 15px; text-align: justify;">🔔 27 Jul 2024: Published research on <strong>AI in Reverse Logistics</strong> in Supply Chain Analytics journal. <span class="tag" style="background: #fce4ec; padding: 2px 6px; border-radius: 3px; font-size: 13px;">#research</span></p>
-      </div>
-
-      <div class="news-item" data-year="2022" data-month="9" data-tags="project">
-        <p style="font-size: 15px; text-align: justify;">🔔 30 Sep 2022: Developed <strong>Material Requirement Planning (MRP) dashboard</strong> for Bengal Group of Industries using Power BI. <span class="tag" style="background: #e0f7fa; padding: 2px 6px; border-radius: 3px; font-size: 13px;">#project</span></p>
-      </div>
-
-      <div class="news-item" data-year="2022" data-month="4" data-tags="academic">
-        <p style="font-size: 15px; text-align: justify;">🔔 30 Apr 2022: Graduated with <strong>BSc in Industrial & Production Engineering</strong> (CGPA: 3.65/4.00). <span class="tag" style="background: #e8f5e9; padding: 2px 6px; border-radius: 3px; font-size: 13px;">#academic</span></p>
-      </div>
-
-      <div class="news-item" data-year="2022" data-month="6" data-tags="certification">
-        <p style="font-size: 15px; text-align: justify;">🔔 15 Jun 2022: Earned <strong>SAP ERP Essential Training</strong> certification from LinkedIn Learning. <span class="tag" style="background: #fff3e0; padding: 2px 6px; border-radius: 3px; font-size: 13px;">#certification</span></p>
-      </div>
-
-      <div class="news-item" data-year="2021" data-month="7" data-tags="competition">
-        <p style="font-size: 15px; text-align: justify;">🔔 15 Jul 2021: Awarded <strong>60% Scholarship</strong> through ISCEA PTAK Prize Case Competition. <span class="tag" style="background: #f3e5f5; padding: 2px 6px; border-radius: 3px; font-size: 13px;">#competition</span></p>
-      </div>
-
-      <div class="news-item" data-year="2020" data-month="10" data-tags="competition">
-        <p style="font-size: 15px; text-align: justify;">🔔 20 Oct 2020: Became <strong>Top 10 Finalist</strong> in SCA Upstream Case Competition. <span class="tag" style="background: #f3e5f5; padding: 2px 6px; border-radius: 3px; font-size: 13px;">#competition</span></p>
-      </div>
-
-      <div class="news-item" data-year="2020" data-month="8" data-tags="certification">
-        <p style="font-size: 15px; text-align: justify;">🔔 31 Aug 2020: Completed <strong>Excel Skills for Business Specialization</strong> from Macquarie University. <span class="tag" style="background: #fff3e0; padding: 2px 6px; border-radius: 3px; font-size: 13px;">#certification</span></p>
-      </div>
-
-      <div class="news-item" data-year="2019" data-month="3" data-tags="academic">
-        <p style="font-size: 15px; text-align: justify;">🔔 15 Mar 2019: Received <strong>Dean's List Honor</strong> for academic excellence. <span class="tag" style="background: #e8f5e9; padding: 2px 6px; border-radius: 3px; font-size: 13px;">#academic</span></p>
-      </div>
-
-      <div class="news-item" data-year="2019" data-month="10" data-tags="volunteer">
-        <p style="font-size: 15px; text-align: justify;">🔔 01 Oct 2019: Became <strong>Google Level 7 Local Guide</strong> with 1,300+ contributions. <span class="tag" style="background: #d1c4e9; padding: 2px 6px; border-radius: 3px; font-size: 13px;">#volunteer</span></p>
-      </div>
-
-      <div class="news-item" data-year="2018" data-month="10" data-tags="competition">
-        <p style="font-size: 15px; text-align: justify;">🔔 10 Oct 2018: Secured <strong>1st Runner-Up</strong> in SolidWorks Workshop. <span class="tag" style="background: #f3e5f5; padding: 2px 6px; border-radius: 3px; font-size: 13px;">#competition</span></p>
-      </div>
-
-      <div class="news-item" data-year="2015" data-month="1" data-tags="academic">
-        <p style="font-size: 15px; text-align: justify;">🔔 15 Jan 2015: Awarded <strong>General Government Scholarship</strong> by Chattogram Board. <span class="tag" style="background: #e8f5e9; padding: 2px 6px; border-radius: 3px; font-size: 13px;">#academic</span></p>
-      </div>
-
-      <div class="news-item" data-year="2022" data-month="10" data-tags="certification">
-        <p style="font-size: 15px; text-align: justify;">🔔 15 Oct 2022: Earned <strong>Notion Essential Badge Certification</strong>. <span class="tag" style="background: #fff3e0; padding: 2px 6px; border-radius: 3px; font-size: 13px;">#certification</span></p>
+        <p style="font-size: 15px; text-align: justify;">🔔 <strong>27 Jul 2024:</strong> Published research on AI in Reverse Logistics in Supply Chain Analytics journal. <span class="tag" style="background: #fce4ec; padding: 2px 6px; border-radius: 3px; font-size: 13px;">#research</span></p>
       </div>
 
       <div class="news-item" data-year="2023" data-month="7" data-tags="volunteer">
-        <p style="font-size: 15px; text-align: justify;">🔔 31 Jul 2023: Completed <strong>15+ Fiverr projects</strong> with 5-star ratings in Excel and MRP. <span class="tag" style="background: #d1c4e9; padding: 2px 6px; border-radius: 3px; font-size: 13px;">#volunteer</span></p>
+        <p style="font-size: 15px; text-align: justify;">🔔 <strong>31 Jul 2023:</strong> Completed 15+ Fiverr projects with 5-star ratings in Excel and MRP. <span class="tag" style="background: #d1c4e9; padding: 2px 6px; border-radius: 3px; font-size: 13px;">#volunteer</span></p>
+      </div>
+
+      <div class="news-item" data-year="2023" data-month="6" data-tags="job">
+        <p style="font-size: 15px; text-align: justify;">🔔 <strong>30 Jun 2023:</strong> Began role as Supply Chain Planning Officer at Unilever Consumer Care Limited. <span class="tag" style="background: #ffe0b2; padding: 2px 6px; border-radius: 3px; font-size: 13px;">#job</span></p>
+      </div>
+
+      <div class="news-item" data-year="2022" data-month="10" data-tags="certification">
+        <p style="font-size: 15px; text-align: justify;">🔔 <strong>15 Oct 2022:</strong> Earned Notion Essential Badge Certification. <span class="tag" style="background: #fff3e0; padding: 2px 6px; border-radius: 3px; font-size: 13px;">#certification</span></p>
+      </div>
+
+      <div class="news-item" data-year="2022" data-month="9" data-tags="project">
+        <p style="font-size: 15px; text-align: justify;">🔔 <strong>30 Sep 2022:</strong> Developed Material Requirement Planning (MRP) dashboard for Bengal Group of Industries. <span class="tag" style="background: #e0f7fa; padding: 2px 6px; border-radius: 3px; font-size: 13px;">#project</span></p>
+      </div>
+
+      <div class="news-item" data-year="2022" data-month="9" data-tags="job">
+        <p style="font-size: 15px; text-align: justify;">🔔 <strong>10 Sep 2022:</strong> Selected for Unilever Leadership Internship Programme (ULIP) in Supply Chain. <span class="tag" style="background: #ffe0b2; padding: 2px 6px; border-radius: 3px; font-size: 13px;">#job</span></p>
+      </div>
+
+      <div class="news-item" data-year="2022" data-month="6" data-tags="certification">
+        <p style="font-size: 15px; text-align: justify;">🔔 <strong>15 Jun 2022:</strong> Earned SAP ERP Essential Training certification from LinkedIn Learning. <span class="tag" style="background: #fff3e0; padding: 2px 6px; border-radius: 3px; font-size: 13px;">#certification</span></p>
+      </div>
+
+      <div class="news-item" data-year="2022" data-month="4" data-tags="academic">
+        <p style="font-size: 15px; text-align: justify;">🔔 <strong>30 Apr 2022:</strong> Graduated with BSc in Industrial & Production Engineering (CGPA: 3.65/4.00). <span class="tag" style="background: #e8f5e9; padding: 2px 6px; border-radius: 3px; font-size: 13px;">#academic</span></p>
       </div>
 
       <div class="news-item" data-year="2022" data-month="2" data-tags="volunteer">
-        <p style="font-size: 15px; text-align: justify;">🔔 28 Feb 2022: Concluded role as <strong>CAD Instructor</strong> at IEM Robotics & CAD Club. <span class="tag" style="background: #d1c4e9; padding: 2px 6px; border-radius: 3px; font-size: 13px;">#volunteer</span></p>
+        <p style="font-size: 15px; text-align: justify;">🔔 <strong>28 Feb 2022:</strong> Concluded role as CAD Instructor at IEM Robotics & CAD Club. <span class="tag" style="background: #d1c4e9; padding: 2px 6px; border-radius: 3px; font-size: 13px;">#volunteer</span></p>
+      </div>
+
+      <div class="news-item" data-year="2021" data-month="7" data-tags="competition">
+        <p style="font-size: 15px; text-align: justify;">🔔 <strong>15 Jul 2021:</strong> Awarded 60% Scholarship through ISCEA PTAK Prize Case Competition. <span class="tag" style="background: #f3e5f5; padding: 2px 6px; border-radius: 3px; font-size: 13px;">#competition</span></p>
       </div>
 
       <div class="news-item" data-year="2021" data-month="6" data-tags="certification">
-        <p style="font-size: 15px; text-align: justify;">🔔 30 Jun 2021: Completed <strong>Leadership Workshop</strong> with Bangladesh Youth Leadership Center. <span class="tag" style="background: #fff3e0; padding: 2px 6px; border-radius: 3px; font-size: 13px;">#certification</span></p>
+        <p style="font-size: 15px; text-align: justify;">🔔 <strong>30 Jun 2021:</strong> Completed Leadership Workshop with Bangladesh Youth Leadership Center. <span class="tag" style="background: #fff3e0; padding: 2px 6px; border-radius: 3px; font-size: 13px;">#certification</span></p>
+      </div>
+
+      <div class="news-item" data-year="2020" data-month="10" data-tags="competition">
+        <p style="font-size: 15px; text-align: justify;">🔔 <strong>20 Oct 2020:</strong> Became Top 10 Finalist in SCA Upstream Case Competition. <span class="tag" style="background: #f3e5f5; padding: 2px 6px; border-radius: 3px; font-size: 13px;">#competition</span></p>
+      </div>
+
+      <div class="news-item" data-year="2020" data-month="8" data-tags="certification">
+        <p style="font-size: 15px; text-align: justify;">🔔 <strong>31 Aug 2020:</strong> Completed Excel Skills for Business Specialization from Macquarie University. <span class="tag" style="background: #fff3e0; padding: 2px 6px; border-radius: 3px; font-size: 13px;">#certification</span></p>
+      </div>
+
+      <div class="news-item" data-year="2019" data-month="10" data-tags="volunteer">
+        <p style="font-size: 15px; text-align: justify;">🔔 <strong>01 Oct 2019:</strong> Became Google Level 7 Local Guide with 1,300+ contributions. <span class="tag" style="background: #d1c4e9; padding: 2px 6px; border-radius: 3px; font-size: 13px;">#volunteer</span></p>
+      </div>
+
+      <div class="news-item" data-year="2019" data-month="3" data-tags="academic">
+        <p style="font-size: 15px; text-align: justify;">🔔 <strong>15 Mar 2019:</strong> Received Dean's List Honor for academic excellence. <span class="tag" style="background: #e8f5e9; padding: 2px 6px; border-radius: 3px; font-size: 13px;">#academic</span></p>
+      </div>
+
+      <div class="news-item" data-year="2018" data-month="10" data-tags="competition">
+        <p style="font-size: 15px; text-align: justify;">🔔 <strong>10 Oct 2018:</strong> Secured 1st Runner-Up in SolidWorks Workshop. <span class="tag" style="background: #f3e5f5; padding: 2px 6px; border-radius: 3px; font-size: 13px;">#competition</span></p>
+      </div>
+
+      <div class="news-item" data-year="2015" data-month="1" data-tags="academic">
+        <p style="font-size: 15px; text-align: justify;">🔔 <strong>15 Jan 2015:</strong> Awarded General Government Scholarship by Chattogram Board. <span class="tag" style="background: #e8f5e9; padding: 2px 6px; border-radius: 3px; font-size: 13px;">#academic</span></p>
       </div>
 
     </div>
