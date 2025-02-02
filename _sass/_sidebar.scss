@@ -17,13 +17,15 @@
     height: 100vh;
     overflow-y: auto;               // Add scrollbar if the sidebar is too long
     position: fixed;
-    padding-top: $masthead-height;
+    padding-top: calc(#{$masthead-height} - 15px); // Reduce top padding
+    padding-left: 1.5rem; // Creates space on the left edge
+    padding-right: 1rem;
     // padding-top: calc($masthead-height - 20px); /* Moves sidebar up */
     // left: -10px; /* Moves sidebar slightly left */
   }
 
   @include breakpoint($large) {
-    @include span(2 of 12);
+    @include span(3 of 12);
     opacity: 1;
     -webkit-transition: opacity 0.2s ease-in-out;
             transition: opacity 0.2s ease-in-out;
@@ -34,7 +36,7 @@
   }
 
   @include breakpoint($x-large) {
-    max-width: $sidebar-link-max-width;
+    max-width: calc(#{$sidebar-link-max-width} + 2rem); // Increase max width
     padding-right: 0;
   }
 
@@ -111,6 +113,7 @@
 
   @include breakpoint($large) {
     display: block;
+    padding-left: 1rem; // Add left padding for content
     width: 100%;
     padding-left: 0;
     padding-right: 0;
@@ -159,6 +162,7 @@
   position: relative;
   display: table-cell;
   vertical-align: middle;
+  margin-top: 0.5rem; // Reduce top margin
   font-family: $sans-serif;
   z-index: 10;
   position: relative;
@@ -249,6 +253,8 @@
     display: block;
     margin-bottom: 5px;
     padding-right: 5px;
+    font-size: $type-size-6; // Slightly smaller font for links
+    padding: 1px 0; // Tighter padding
     padding-top: 2px;
     padding-bottom: 2px;
     color: inherit;
