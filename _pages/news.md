@@ -153,6 +153,11 @@ author_profile: true
       <div class="news-item" data-year="2018" data-month="10" data-tags="competition">
         <p style="font-size: 15px; text-align: justify;">🔔 <strong>10 Oct 2018:</strong> Secured 1st Runner-Up in SolidWorks Workshop. <span class="tag" style="background: #f3e5f5; padding: 2px 6px; border-radius: 3px; font-size: 13px;">#competition</span></p>
       </div>
+      
+
+      <div class="news-item" data-year="2016" data-month="12" data-tags="academic">
+        <p style="font-size: 15px; text-align: justify;">🔔 <strong>06 Dec 2016:</strong> Enrolled into Khulna University of Engineering & Technology for studying Bachelor of Science in Industrial and Production Engineering <span class="tag" style="background: #e8f5e9; padding: 2px 6px; border-radius: 3px; font-size: 13px;">#academic</span></p>
+      </div>
 
       <div class="news-item" data-year="2015" data-month="1" data-tags="academic">
         <p style="font-size: 15px; text-align: justify;">🔔 <strong>15 Jan 2015:</strong> Awarded General Government Scholarship by Chattogram Board. <span class="tag" style="background: #e8f5e9; padding: 2px 6px; border-radius: 3px; font-size: 13px;">#academic</span></p>
