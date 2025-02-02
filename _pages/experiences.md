@@ -38,7 +38,7 @@ author_profile: true
       </div>
 
       <!-- Description continues -->
-      <ul style="font-size: 15px; text-align: justify; padding-left: 20px;">
+      <ul style="font-size: 15px; text-align: justify; padding-left: 24px;">
         <li>Led daily Master Production Schedule (MPS) meetings, coordinating a team of 20 to drive updates and actionable plans across three plants. Streamlined MPS to align with production capacity, Overall Equipment Efficiency (OEE), and inventory strategy, achieving efficient demand and resource management</li>
         <li>Develop Material Requirement Planning (MRP) considering reordering points, MOQ, Days On Hand (DOH) coverage and assist Distribution Requirement Planning (DRP) considering inventory targets and demand dynamics.</li>
         <li>Drive & monitor Supply Planning KPIs: Dispatch Rate (DR), Service Level (OTIF), Inventory FG & RM.</li>
@@ -47,7 +47,7 @@ author_profile: true
         <li>Facilitate Sales & Operations Planning (S&OP) process by collaborating with Brand, Customer Service, Procurement, Quality, R&D for strategic decision making, new SKU launch and savings projects.</li>
       </ul>
       <p style="font-size: 15px; text-align: justify;">🏆 <strong>Achievements:</strong></p>
-      <ul style="font-size: 15px; text-align: justify; padding-left: 20px;">
+      <ul style="font-size: 15px; text-align: justify; padding-left: 24px;">
         <li>Developed Python, Power Automate and SAP-based scripts to automate reporting, boosting ’Execution Tree’ creation speed by 270% with 100% accuracy. Additionally, implemented VBA scripts for streamlined SAP tasks like PO creation, reducing manual workload and increasing process reliability.</li>
         <li>Proactively supported Knorr SKUs demand upsurge of 158% over forecast for 03 consecutive months.</li>
         <li>19.53 Million BDT worth write-off has been avoided with proactive actions like ensuring consumption prior expiry or extending material expiry in alignment with R&D and Quality.</li>
@@ -93,7 +93,7 @@ author_profile: true
       </div>
 
       <!-- Description continues -->
-      <ul style="font-size: 15px; text-align: justify; padding-left: 20px;">
+      <ul style="font-size: 15px; text-align: justify; padding-left: 24px;">
         <li> Got selected for the prestigious Unilever Leadership Internship Programme (ULIP) in Supply Chain competing nationally against 4,500+ candidates through a rigorous 4-phase recruitment process </li>
         <li>Successfully completed induction on manufacturing, warehouse, operations, and quality at MFPL, Gazipur factory, gaining a thorough understanding of the production process.</li>
         <li>Restructured the Forecast Accuracy & Forecast Bias files, bringing in more automation that aligned with business needs and KPI reporting.</li>
@@ -132,7 +132,7 @@ author_profile: true
       </div>
 
       <!-- Description continues -->
-      <ul style="font-size: 15px; text-align: justify; padding-left: 20px;">
+      <ul style="font-size: 15px; text-align: justify; padding-left: 24px;">
         <li>Collaborated effectively with cross-functional teams including Sales, Marketing, and Finance to gather and ensure the accuracy of data used for demand forecasting.</li>
         <li>Supported the procurement team in the end-to-end procurement process from indent to GRN using Far Vision ERP.</li>
         <li>Developed and implemented a Material Requirement Planning (MRP) dashboard for four business units of BGI to streamline material flow in the factories.</li>
