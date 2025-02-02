@@ -125,7 +125,12 @@
       {% endif %}            
       {% if author.soundcloud %}
         <li><a href="https://soundcloud.com/{{ author.soundcloud }}"><i class="fab fa-fw fa-soundcloud icon-pad-right" aria-hidden="true"></i>Soundcloud</a></li>
-      {% endif %}      
+      {% endif %}
+      
+      {% if site.author.whatsapp %}
+        <li><a href="{{ site.author.whatsapp }}" target="_blank"><i class="fab fa-whatsapp"></i> WhatsApp</a></li>
+      {% endif %}
+      
       {% if author.steam %}
         <li><a href="https://steamcommunity.com/id/{{ author.steam }}"><i class="fab fa-fw fa-steam icon-pad-right" aria-hidden="true"></i>Steam</a></li>
       {% endif %}
