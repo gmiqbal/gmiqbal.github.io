@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "News & Updates"
+title: "News"
 permalink: /news/
 author_profile: true
 ---
@@ -8,7 +8,7 @@ author_profile: true
 <div class="main-content">
   <div id="news">
     <p style="font-size: 15px; text-align: justify;">
-      Welcome to my journey! Here, I share my milestones, accomplishments, and experiences as I grow both personally and professionally. Whether it's academic achievements, career highlights, or certifications, each update reflects my dedication to learning, growth, and creating impact. Use the filters below to explore specific updates by year, month, or tags. 😊
+      Every milestone tells a story.🪴 Whether it’s an achievement, a new skill, or a career highlight, I share my journey of learning and impact. Use filters to navigate by year, month, or tags! 😊
     </p>
 
     <div class="filter-section" style="margin-top: 20px; display: flex; align-items: center; flex-wrap: wrap; gap: 20px;">
@@ -68,6 +68,10 @@ author_profile: true
 
       <div class="news-item" data-year="2024" data-month="12" data-tags="certification">
         <p style="font-size: 15px; text-align: justify;">🔔 <strong>31 Dec 2024:</strong> Completed LinkedIn Learning certifications in Data Visualization in R with ggplot2 and R for Data Science: Analysis and Visualization. <span class="tag" style="background: #fff3e0; padding: 2px 6px; border-radius: 3px; font-size: 13px;">#certification</span></p>
+      </div>
+
+      <div class="news-item" data-year="2024" data-month="12" data-tags="project">
+        <p style="font-size: 15px; text-align: justify;">🔔28 Dec 2024: Created a <strong>professional portfolio</strong> using Jekyll and GitHub pages. ✨ <span class="tag" style="background: #e0f7fa; padding: 2px 6px; border-radius: 3px; font-size: 13px;">#project</span></p>
       </div>
 
       <div class="news-item" data-year="2024" data-month="10" data-tags="certification">
