@@ -10,7 +10,7 @@ author_profile: true
     <!-- <h2 style="text-align: left; font-size: 18px; font-weight: bold;">VOLUNTEER & CO-CURRICULAR EXPERIENCES</h2> -->
 
     <div class="experience" data-year="2019">
-      <p style="font-size: 15px; text-align: justify;">🌍 <strong>Level 7 Local Guide</strong><br> 🏢 <a href="https://www.google.com/maps/contrib/108461946861334340212/" target="_blank"><strong>Google Maps</strong></a><br>📅 <strong> Oct 2019 - Present</strong></p>
+      <p style="font-size: 15px; text-align: justify;">🌍 <strong>Level 7 Local Guide</strong><br> 🗺️ <a href="https://www.google.com/maps/contrib/108461946861334340212/" target="_blank"><strong>Google Maps</strong></a><br>📅 <strong> Oct 2019 - Present</strong></p>
       <ul style="font-size: 15px; text-align: justify; padding-left: 20px;">
         <li>Completed 1,319 contributions, generating 831,000+ views.</li>
         <li>Enhanced local information by adding missing locations and roads, correcting inaccuracies to support accurate navigation and information accessibility for the community.</li>
