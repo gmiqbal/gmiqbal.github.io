@@ -1,8 +1,7 @@
 # Welcome to Jekyll!
 
 
-# bundle exec jekyll serve --incremental --livereload
-# Use this to test the file on browser locally. If changed on config, need to redo the command, else refresh only.
+
 
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.

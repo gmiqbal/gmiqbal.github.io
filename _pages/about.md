@@ -7,6 +7,12 @@ redirect_from:
   - /about.html
 ---
 
+<!-- 
+bundle exec jekyll serve --incremental --livereload
+Use this to test the file on browser locally. If changed on config, need to redo the command, else refresh only.
+https://gmiqbal.goatcounter.com/
+ -->
+
 <p style="text-align: justify; font-size: 15px;"> I’m <strong>G M Iqbal Mahmud</strong>, a dedicated professional and researcher with a passion for solving complex problems and driving meaningful change. My expertise lies at the intersection of <strong>Industrial Engineering, Supply Chain Management,</strong> and <strong>Process Automation,</strong> with a focus on innovative, efficient solutions. 
 </p>
 <p style="text-align: justify; font-size: 15px;"> In my professional journey, I’ve worked on streamlining operations, developing automation systems, and optimizing workflows at an MNC like <strong>Unilever Bangladesh Limited</strong> and <strong>Bengal Group of Industries</strong>. Beyond the corporate space, I’ve <strong>collaborated on research projects</strong> to explore new frontiers in engineering and management, contributing to several publications and impactful studies.
