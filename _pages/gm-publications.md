@@ -12,6 +12,15 @@ author_profile: true
   <hr>
   <hr>
   <div id="publications">
+    <div class="publication" data-year="2025">
+      <p style="font-size: 15px; text-align: justify;">📝 <strong>Artificial Intelligence and Machine Learning in Combating COVID-19: Lessons Learned for Future Pandemics for South Asia</strong><br> 👥 Lisan Al Amin, Md. Borhan Uddin, Mahbubul Islam, Md. Muntasir Jahid Ayan, <strong>GM Iqbal Mahmud</strong>, Mehnaz Binta Shahid,  Shovon Bhowmick, Rupok Kumar Das, Al Adal Bondhon, Taki Uddin, Thanh Thi Nguyen, A.K.M. Muzahidul Islam<br>📅 2025 | 🔗 <a href="">Under Review ⏳</a> | ▶ <span class="abstract-toggle" onclick="toggleAbstract('abstract-1')">Abstract</span></p>
+      <div id="abstract-1" class="abstract" style="font-size: 15px; text-align: justify; display: none; background-color: #f9f9f9; padding: 10px; border-radius: 5px;">
+        <strong>Abstract:</strong><br> The COVID-19 pandemic is undoubtedly one of the most formidable health crises in modern history. It has impacted hundreds of millions of people worldwide, with millions of lives lost. Research groups worldwide in artificial intelligence (AI) and machine learning (ML) have made significant strides in addressing various facets of the COVID-19 crisis. Their efforts have spanned epidemiological areas, such as prediction, control, and forecasting; molecular research, including molecular modeling and drug target identification; and medical applications, like AIdriven diagnostics and treatment development. In this work, we performed a systematic literature review on AI and ML applications in addressing various challenges in COVID-19 management. We conducted a search across major databases, including Google Scholar and Scopus, up to December 2024, using keywords related to AI, ML, and COVID-19. Our approach identified 63 studies with diverse applications of AI and ML in the fight against COVID-19. We carried out a thorough review of the identified studies based on several research questions and offered directions for future studies in this area. In particular, we highlighted lessons learned from COVID-19 for future pandemics in the South Asia context. By showing how AI and ML methods can streamline the COVID-19 response, this review will also help researchers and practitioners develop practical applications based on AI and ML models.
+      </div>
+    </div>
+
+    <hr>
+
     <div class="publication" data-year="2024">
       <p style="font-size: 15px; text-align: justify;">📝 <strong>Towards sustainable AI: a comprehensive framework for Green AI</strong><br> 👥 Abdulaziz Tabbakh, Lisan Al Amin, Mahbubul Islam, <strong>GM Iqbal Mahmud</strong>, Imranul Kabir Chowdhury, Md Saddam Hossain Mukta<br>📅 15th Nov 2024 | 🔗 <a href="https://link.springer.com/article/10.1007/s43621-024-00641-4">Discover Sustainability</a> | ▶ <span class="abstract-toggle" onclick="toggleAbstract('abstract-1')">Abstract</span></p>
       <div id="abstract-1" class="abstract" style="font-size: 15px; text-align: justify; display: none; background-color: #f9f9f9; padding: 10px; border-radius: 5px;">
