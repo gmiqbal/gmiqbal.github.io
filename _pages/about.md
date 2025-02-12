@@ -18,7 +18,11 @@ redirect_from:
 </p>
 <!-- sdfsdfjkh -->
 
+
 <hr>
+
+<script data-goatcounter="https://gmiqbal.goatcounter.com/count"
+      async src="//gc.zgo.at/count.js"></script>
 
 <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap; margin: 20px 0;">
   <a href="/news/" style="padding: 6px 12px; text-decoration: none; background: #f0f0f0; color: #333; border-radius: 3px; font-size: 14px; transition: all 0.3s; border: 1px solid #ccc;">📢 News</a>
