@@ -75,7 +75,7 @@ author_profile: true
       </div>
 
       <div class="news-item" data-year="2024" data-month="10" data-tags="certification">
-        <p style="font-size: 15px; text-align: justify;">🔔 <strong>29 Oct 2024:</strong> Earned an overall band of 7.0 in IELTS, with 8.0 in Listening and 7.0 in Reading and Writing. <span class="tag" style="background: #fff3e0; padding: 2px 6px; border-radius: 3px; font-size: 13px;">#certification</span></p>
+        <p style="font-size: 15px; text-align: justify;">🔔 <strong>29 Oct 2024:</strong> Earned an overall band of 7.0 in IELTS, with 8.0 in Listening and 7.0 in Reading, 6.5 in Writing, and 7.0 in Speaking. <span class="tag" style="background: #fff3e0; padding: 2px 6px; border-radius: 3px; font-size: 13px;">#certification</span></p>
       </div>
 
       <div class="news-item" data-year="2024" data-month="9" data-tags="academic">
