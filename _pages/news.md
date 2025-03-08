@@ -115,56 +115,56 @@ author_profile: true
       </div>
 
       <div class="news-item" data-year="2022" data-month="9" data-tags="job">
-        <p style="font-size: 15px; text-align: justify;">🔔 <strong>10 Sep 2022:</strong> Selected for Unilever Leadership Internship Programme (ULIP) in Supply Chain. <span class="tag" style="background: #ffe0b2; padding: 2px 6px; border-radius: 3px; font-size: 13px;">#job</span></p>
+        <p style="font-size: 15px; text-align: justify;">🔔 <strong>10 Sep 2022:</strong> Selected for <strong>Unilever Leadership Internship Programme (ULIP)</strong> in Supply Chain. <span class="tag" style="background: #ffe0b2; padding: 2px 6px; border-radius: 3px; font-size: 13px;">#job</span></p>
       </div>
 
       <div class="news-item" data-year="2022" data-month="6" data-tags="certification">
-        <p style="font-size: 15px; text-align: justify;">🔔 <strong>15 Jun 2022:</strong> Earned SAP ERP Essential Training certification from LinkedIn Learning. <span class="tag" style="background: #fff3e0; padding: 2px 6px; border-radius: 3px; font-size: 13px;">#certification</span></p>
+        <p style="font-size: 15px; text-align: justify;">🔔 <strong>15 Jun 2022:</strong> Earned <strong>SAP ERP Essential Training</strong> certification from LinkedIn Learning. <span class="tag" style="background: #fff3e0; padding: 2px 6px; border-radius: 3px; font-size: 13px;">#certification</span></p>
       </div>
 
       <div class="news-item" data-year="2022" data-month="4" data-tags="academic">
-        <p style="font-size: 15px; text-align: justify;">🔔 <strong>30 Apr 2022:</strong> Graduated with BSc in Industrial & Production Engineering (CGPA: 3.65/4.00). <span class="tag" style="background: #e8f5e9; padding: 2px 6px; border-radius: 3px; font-size: 13px;">#academic</span></p>
+        <p style="font-size: 15px; text-align: justify;">🔔 <strong>30 Apr 2022:</strong> <strong>Graduated</strong> with BSc in Industrial & Production Engineering (CGPA: 3.65/4.00). <span class="tag" style="background: #e8f5e9; padding: 2px 6px; border-radius: 3px; font-size: 13px;">#academic</span></p>
       </div>
 
       <div class="news-item" data-year="2022" data-month="2" data-tags="volunteer">
-        <p style="font-size: 15px; text-align: justify;">🔔 <strong>28 Feb 2022:</strong> Concluded role as CAD Instructor at IEM Robotics & CAD Club. <span class="tag" style="background: #d1c4e9; padding: 2px 6px; border-radius: 3px; font-size: 13px;">#volunteer</span></p>
+        <p style="font-size: 15px; text-align: justify;">🔔 <strong>28 Feb 2022:</strong> <strong>Concluded role</strong> as CAD Instructor at IEM Robotics & CAD Club. <span class="tag" style="background: #d1c4e9; padding: 2px 6px; border-radius: 3px; font-size: 13px;">#volunteer</span></p>
       </div>
 
       <div class="news-item" data-year="2021" data-month="7" data-tags="competition">
-        <p style="font-size: 15px; text-align: justify;">🔔 <strong>15 Jul 2021:</strong> Awarded 60% Scholarship through ISCEA PTAK Prize Case Competition. <span class="tag" style="background: #f3e5f5; padding: 2px 6px; border-radius: 3px; font-size: 13px;">#competition</span></p>
+        <p style="font-size: 15px; text-align: justify;">🔔 <strong>15 Jul 2021:</strong> <strong>Awarded 60% Scholarship</strong> through ISCEA PTAK Prize Case Competition. <span class="tag" style="background: #f3e5f5; padding: 2px 6px; border-radius: 3px; font-size: 13px;">#competition</span></p>
       </div>
 
       <div class="news-item" data-year="2021" data-month="6" data-tags="certification">
-        <p style="font-size: 15px; text-align: justify;">🔔 <strong>30 Jun 2021:</strong> Completed Leadership Workshop with Bangladesh Youth Leadership Center. <span class="tag" style="background: #fff3e0; padding: 2px 6px; border-radius: 3px; font-size: 13px;">#certification</span></p>
+        <p style="font-size: 15px; text-align: justify;">🔔 <strong>30 Jun 2021:</strong> <strong>Completed Leadership Workshop</strong> with Bangladesh Youth Leadership Center. <span class="tag" style="background: #fff3e0; padding: 2px 6px; border-radius: 3px; font-size: 13px;">#certification</span></p>
       </div>
 
       <div class="news-item" data-year="2020" data-month="10" data-tags="competition">
-        <p style="font-size: 15px; text-align: justify;">🔔 <strong>20 Oct 2020:</strong> Became Top 10 Finalist in SCA Upstream Case Competition. <span class="tag" style="background: #f3e5f5; padding: 2px 6px; border-radius: 3px; font-size: 13px;">#competition</span></p>
+        <p style="font-size: 15px; text-align: justify;">🔔 <strong>20 Oct 2020:</strong> <strong>Became Top 10 Finalist</strong> in SCA Upstream Case Competition. <span class="tag" style="background: #f3e5f5; padding: 2px 6px; border-radius: 3px; font-size: 13px;">#competition</span></p>
       </div>
 
       <div class="news-item" data-year="2020" data-month="8" data-tags="certification">
-        <p style="font-size: 15px; text-align: justify;">🔔 <strong>31 Aug 2020:</strong> Completed Excel Skills for Business Specialization from Macquarie University. <span class="tag" style="background: #fff3e0; padding: 2px 6px; border-radius: 3px; font-size: 13px;">#certification</span></p>
+        <p style="font-size: 15px; text-align: justify;">🔔 <strong>31 Aug 2020:</strong> <strong>Completed Excel Skills for Business Specialization</strong> from Macquarie University. <span class="tag" style="background: #fff3e0; padding: 2px 6px; border-radius: 3px; font-size: 13px;">#certification</span></p>
       </div>
 
       <div class="news-item" data-year="2019" data-month="10" data-tags="volunteer">
-        <p style="font-size: 15px; text-align: justify;">🔔 <strong>01 Oct 2019:</strong> Became Google Level 7 Local Guide with 1,300+ contributions. <span class="tag" style="background: #d1c4e9; padding: 2px 6px; border-radius: 3px; font-size: 13px;">#volunteer</span></p>
+        <p style="font-size: 15px; text-align: justify;">🔔 <strong>01 Oct 2019:</strong> <strong>Became Google Level 7 Local Guide</strong> with 1,300+ contributions. <span class="tag" style="background: #d1c4e9; padding: 2px 6px; border-radius: 3px; font-size: 13px;">#volunteer</span></p>
       </div>
 
       <div class="news-item" data-year="2019" data-month="3" data-tags="academic">
-        <p style="font-size: 15px; text-align: justify;">🔔 <strong>15 Mar 2019:</strong> Received Dean's List Honor for academic excellence. <span class="tag" style="background: #e8f5e9; padding: 2px 6px; border-radius: 3px; font-size: 13px;">#academic</span></p>
+        <p style="font-size: 15px; text-align: justify;">🔔 <strong>15 Mar 2019:</strong> <strong>Received Dean's List Honor</strong> for academic excellence. <span class="tag" style="background: #e8f5e9; padding: 2px 6px; border-radius: 3px; font-size: 13px;">#academic</span></p>
       </div>
 
       <div class="news-item" data-year="2018" data-month="10" data-tags="competition">
-        <p style="font-size: 15px; text-align: justify;">🔔 <strong>10 Oct 2018:</strong> Secured 1st Runner-Up in SolidWorks Workshop. <span class="tag" style="background: #f3e5f5; padding: 2px 6px; border-radius: 3px; font-size: 13px;">#competition</span></p>
+        <p style="font-size: 15px; text-align: justify;">🔔 <strong>10 Oct 2018:</strong> <strong>Secured 1st Runner-Up</strong> in SolidWorks Workshop. <span class="tag" style="background: #f3e5f5; padding: 2px 6px; border-radius: 3px; font-size: 13px;">#competition</span></p>
       </div>
       
 
       <div class="news-item" data-year="2016" data-month="12" data-tags="academic">
-        <p style="font-size: 15px; text-align: justify;">🔔 <strong>06 Dec 2016:</strong> Enrolled into Khulna University of Engineering & Technology for studying Bachelor of Science in Industrial and Production Engineering <span class="tag" style="background: #e8f5e9; padding: 2px 6px; border-radius: 3px; font-size: 13px;">#academic</span></p>
+        <p style="font-size: 15px; text-align: justify;">🔔 <strong>06 Dec 2016:</strong> <strong>Enrolled into</strong> Khulna University of Engineering & Technology for studying Bachelor of Science in Industrial and Production Engineering <span class="tag" style="background: #e8f5e9; padding: 2px 6px; border-radius: 3px; font-size: 13px;">#academic</span></p>
       </div>
 
       <div class="news-item" data-year="2015" data-month="1" data-tags="academic">
-        <p style="font-size: 15px; text-align: justify;">🔔 <strong>15 Jan 2015:</strong> Awarded General Government Scholarship by Chattogram Board. <span class="tag" style="background: #e8f5e9; padding: 2px 6px; border-radius: 3px; font-size: 13px;">#academic</span></p>
+        <p style="font-size: 15px; text-align: justify;">🔔 <strong>15 Jan 2015:</strong> <strong>Awarded General Government Scholarship</strong> by Chattogram Board. <span class="tag" style="background: #e8f5e9; padding: 2px 6px; border-radius: 3px; font-size: 13px;">#academic</span></p>
       </div>
 
     </div>
