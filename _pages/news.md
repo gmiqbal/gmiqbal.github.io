@@ -63,7 +63,7 @@ author_profile: true
     <div id="news-list" style="margin-top: 20px;">
       <!-- Reverse Chronological Order -->
       <div class="news-item" data-year="2025" data-month="3" data-tags="project">
-        <p style="font-size: 15px; text-align: justify;">🔔 <strong>29 Jan 2025:</strong> Introduced and designed <a href="https://1drv.ms/f/c/cf8ad1c9d1e10230/EtIkv4dCpWNCjC0dt-8x6pcBzyZLtO0bCkH7aF87GJFBJQ?e=1nTk4L"> DishDash mobile app </a> for product management experimentation <span class="tag" style="background: #e0f7fa; padding: 2px 6px; border-radius: 3px; font-size: 13px;">#project</span></p>
+        <p style="font-size: 15px; text-align: justify;">🔔 <strong> 08 Mar 2025:</strong> Introduced and designed <a href="https://1drv.ms/f/c/cf8ad1c9d1e10230/EtIkv4dCpWNCjC0dt-8x6pcBzyZLtO0bCkH7aF87GJFBJQ?e=1nTk4L"> DishDash mobile app </a> for product management experimentation <span class="tag" style="background: #e0f7fa; padding: 2px 6px; border-radius: 3px; font-size: 13px;">#project</span></p>
       </div>
 
       <div class="news-item" data-year="2025" data-month="1" data-tags="project">
