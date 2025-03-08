@@ -79,39 +79,39 @@ author_profile: true
       </div>
 
       <div class="news-item" data-year="2024" data-month="10" data-tags="certification">
-        <p style="font-size: 15px; text-align: justify;">🔔 <strong>29 Oct 2024:</strong> Earned an overall band of 7.0 in IELTS, with 8.0 in Listening and 7.0 in Reading, 6.5 in Writing, and 7.0 in Speaking. <span class="tag" style="background: #fff3e0; padding: 2px 6px; border-radius: 3px; font-size: 13px;">#certification</span></p>
+        <p style="font-size: 15px; text-align: justify;">🔔 <strong>29 Oct 2024:</strong> Earned an overall band of <strong> 7.0 in IELTS </strong>, with 8.0 in Listening and 7.0 in Reading, 6.5 in Writing, and 7.0 in Speaking. <span class="tag" style="background: #fff3e0; padding: 2px 6px; border-radius: 3px; font-size: 13px;">#certification</span></p>
       </div>
 
       <div class="news-item" data-year="2024" data-month="9" data-tags="academic">
-        <p style="font-size: 15px; text-align: justify;">🔔 <strong>30 Sep 2024:</strong> Achieved GRE score of 303, including Quantitative 157 and Verbal 146, Analytical Writing 3.5. <span class="tag" style="background: #e8f5e9; padding: 2px 6px; border-radius: 3px; font-size: 13px;">#academic</span></p>
+        <p style="font-size: 15px; text-align: justify;">🔔 <strong>30 Sep 2024:</strong> Achieved <strong>GRE score of 303</strong>, including Quantitative 157 and Verbal 146, Analytical Writing 3.5. <span class="tag" style="background: #e8f5e9; padding: 2px 6px; border-radius: 3px; font-size: 13px;">#academic</span></p>
       </div>
 
       <div class="news-item" data-year="2024" data-month="9" data-tags="research">
-        <p style="font-size: 15px; text-align: justify;">🔔 <strong>15 Sep 2024:</strong> Co-authored research on Reverse Logistics AI, published in Supply Chain Analytics. <span class="tag" style="background: #fce4ec; padding: 2px 6px; border-radius: 3px; font-size: 13px;">#research</span></p>
+        <p style="font-size: 15px; text-align: justify;">🔔 <strong>15 Sep 2024:</strong> <strong>Co-authored research</strong> on Reverse Logistics AI, published in Supply Chain Analytics. <span class="tag" style="background: #fce4ec; padding: 2px 6px; border-radius: 3px; font-size: 13px;">#research</span></p>
       </div>
 
       <div class="news-item" data-year="2024" data-month="8" data-tags="job">
-        <p style="font-size: 15px; text-align: justify;">🔔 <strong>31 Aug 2024:</strong> Concluded role as Supply Chain Planning Officer at Unilever Consumer Care Limited. <span class="tag" style="background: #ffe0b2; padding: 2px 6px; border-radius: 3px; font-size: 13px;">#job</span></p>
+        <p style="font-size: 15px; text-align: justify;">🔔 <strong>31 Aug 2024:</strong> <strong>Concluded role</strong> as Supply Chain Planning Officer at Unilever Consumer Care Limited. <span class="tag" style="background: #ffe0b2; padding: 2px 6px; border-radius: 3px; font-size: 13px;">#job</span></p>
       </div>
 
       <div class="news-item" data-year="2024" data-month="7" data-tags="research">
-        <p style="font-size: 15px; text-align: justify;">🔔 <strong>27 Jul 2024:</strong> Published research on AI in Reverse Logistics in Supply Chain Analytics journal. <span class="tag" style="background: #fce4ec; padding: 2px 6px; border-radius: 3px; font-size: 13px;">#research</span></p>
+        <p style="font-size: 15px; text-align: justify;">🔔 <strong>27 Jul 2024:</strong> <strong>Published research</strong> on AI in Reverse Logistics in Supply Chain Analytics journal. <span class="tag" style="background: #fce4ec; padding: 2px 6px; border-radius: 3px; font-size: 13px;">#research</span></p>
       </div>
 
       <div class="news-item" data-year="2023" data-month="7" data-tags="volunteer">
-        <p style="font-size: 15px; text-align: justify;">🔔 <strong>31 Jul 2023:</strong> Completed 15+ Fiverr projects with 5-star ratings in Excel and MRP. <span class="tag" style="background: #d1c4e9; padding: 2px 6px; border-radius: 3px; font-size: 13px;">#volunteer</span></p>
+        <p style="font-size: 15px; text-align: justify;">🔔 <strong>31 Jul 2023:</strong> <strong>Completed 15+ Fiverr projects</strong> with 5-star ratings in Excel and MRP. <span class="tag" style="background: #d1c4e9; padding: 2px 6px; border-radius: 3px; font-size: 13px;">#volunteer</span></p>
       </div>
 
       <div class="news-item" data-year="2023" data-month="6" data-tags="job">
-        <p style="font-size: 15px; text-align: justify;">🔔 <strong>30 Jun 2023:</strong> Began role as Supply Chain Planning Officer at Unilever Consumer Care Limited. <span class="tag" style="background: #ffe0b2; padding: 2px 6px; border-radius: 3px; font-size: 13px;">#job</span></p>
+        <p style="font-size: 15px; text-align: justify;">🔔 <strong>30 Jun 2023:</strong> <strong>Began role </strong> as Supply Chain Planning Officer at Unilever Consumer Care Limited. <span class="tag" style="background: #ffe0b2; padding: 2px 6px; border-radius: 3px; font-size: 13px;">#job</span></p>
       </div>
 
       <div class="news-item" data-year="2022" data-month="10" data-tags="certification">
-        <p style="font-size: 15px; text-align: justify;">🔔 <strong>15 Oct 2022:</strong> Earned Notion Essential Badge Certification. <span class="tag" style="background: #fff3e0; padding: 2px 6px; border-radius: 3px; font-size: 13px;">#certification</span></p>
+        <p style="font-size: 15px; text-align: justify;">🔔 <strong>15 Oct 2022:</strong> Earned Notion Essential <strong>Badge Certification.</strong> <span class="tag" style="background: #fff3e0; padding: 2px 6px; border-radius: 3px; font-size: 13px;">#certification</span></p>
       </div>
 
       <div class="news-item" data-year="2022" data-month="9" data-tags="project">
-        <p style="font-size: 15px; text-align: justify;">🔔 <strong>30 Sep 2022:</strong> Developed Material Requirement Planning (MRP) dashboard for Bengal Group of Industries. <span class="tag" style="background: #e0f7fa; padding: 2px 6px; border-radius: 3px; font-size: 13px;">#project</span></p>
+        <p style="font-size: 15px; text-align: justify;">🔔 <strong>30 Sep 2022:</strong> <strong>Developed Material Requirement Planning (MRP) dashboard </strong> for Bengal Group of Industries. <span class="tag" style="background: #e0f7fa; padding: 2px 6px; border-radius: 3px; font-size: 13px;">#project</span></p>
       </div>
 
       <div class="news-item" data-year="2022" data-month="9" data-tags="job">
