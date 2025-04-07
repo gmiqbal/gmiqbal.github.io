@@ -40,19 +40,3 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
-// New added
-
-.layout {
-    display: flex;
-    gap: 2rem; /* space between sidebar and content */
-    align-items: flex-start;
-  }
-  
-  .sidebar {
-    width: 25%;
-    flex-shrink: 0;
-  }
-  
-  .archive {
-    width: 75%;
-  }
