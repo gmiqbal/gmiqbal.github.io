@@ -16,7 +16,7 @@
   }
   
   @media screen and (min-width: $sidebar-screen-min-width) {
-    margin-left: calc(#{$sidebar-link-max-width} + 3.2rem);
+    margin-left: calc(#{$sidebar-link-max-width} + 3rem);
   }
 }
 
