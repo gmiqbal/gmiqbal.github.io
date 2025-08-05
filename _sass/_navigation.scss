@@ -441,7 +441,7 @@
   }
 }
 
-@media (max-width: 1024px) {
+@media (max-width: $large) {
   .navbar-nav {
       display: flex;
       flex-wrap: wrap; /* Ensures menu items stay visible */
